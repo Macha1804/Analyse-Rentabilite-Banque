@@ -1,4 +1,4 @@
-nalyse de Rentabilité Client - Secteur Bancaire
+Analyse de Rentabilité Client - Secteur Bancaire
 
 Contexte du Projet:
 

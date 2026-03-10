@@ -1,0 +1,1001 @@
+client_id,nom_complet,age,emploi,balance_moyenne,date_acquisition,anciennete_mois,cout_acquisition,segment
+CLI_0001,Alexandre Bernard,40,Cadre,35271.63,2020-07-29,68,111.4,Standard
+CLI_0002,Jean Laurent,71,Profession libérale,65767.7,2023-03-24,35,149.4,Standard
+CLI_0003,Luc Thomas,54,Artisan/Commerçant,8510.29,2023-07-03,32,281.25,Standard
+CLI_0004,Sophie Dubois,49,Retraité,27995.97,2023-12-11,27,149.91,Standard
+CLI_0005,Laura Bernard,30,Artisan/Commerçant,15578.41,2021-02-28,60,112.63,Standard
+CLI_0006,Alexandre Laurent,30,Retraité,34650.57,2025-09-09,5,339.85,Standard
+CLI_0007,David Leroy,25,Retraité,36994.79,2022-05-21,45,133.97,Standard
+CLI_0008,Marie Moreau,64,Artisan/Commerçant,3267.45,2021-09-25,53,173.21,Standard
+CLI_0009,Thomas Martin,49,Employé,10762.26,2025-05-29,9,166.34,Standard
+CLI_0010,Jean Bernard,53,Employé,2673.87,2022-07-07,44,138.51,Standard
+CLI_0011,Sophie Thomas,21,Employé,9135.16,2021-03-19,60,84.03,Standard
+CLI_0012,Nicolas Moreau,72,Sans emploi,3013.43,2023-12-05,27,112.53,Standard
+CLI_0013,Jean Leroy,61,Fonctionnaire,8908.43,2024-02-14,24,281.29,Standard
+CLI_0014,Sophie Laurent,33,Cadre,20883.13,2021-04-15,59,96.71,Standard
+CLI_0015,Alexandre Laurent,32,Retraité,27881.36,2023-02-15,36,143.89,Standard
+CLI_0016,Nicolas Petit,32,Fonctionnaire,9344.8,2022-07-15,44,129.33,Standard
+CLI_0017,Sophie Durand,37,Cadre,37971.46,2024-10-23,16,169.47,Standard
+CLI_0018,Camille Robert,46,Profession libérale,38316.92,2020-04-17,71,187.98,Standard
+CLI_0019,François Michel,42,Fonctionnaire,5093.65,2022-12-31,38,82.62,Standard
+CLI_0020,Jean Lefebvre,37,Cadre,40269.19,2020-04-28,71,159.65,Standard
+CLI_0021,François Dubois,49,Retraité,17144.27,2022-01-08,50,195.61,Standard
+CLI_0022,Laura Petit,29,Employé,7625.97,2023-01-24,37,147.22,Standard
+CLI_0023,Julie Robert,37,Fonctionnaire,14967.1,2023-06-19,32,287.36,Standard
+CLI_0024,Pierre Thomas,40,Fonctionnaire,9319.3,2023-10-23,28,110.45,Standard
+CLI_0025,François Richard,43,Fonctionnaire,4905.37,2023-12-08,27,183.76,Standard
+CLI_0026,Marie Bernard,58,Employé,6860.97,2020-01-26,74,111.22,Standard
+CLI_0027,Thomas Bernard,33,Artisan/Commerçant,23777.87,2022-01-13,50,167.7,Standard
+CLI_0028,Julie Michel,45,Artisan/Commerçant,17118.16,2021-08-09,55,197.76,Standard
+CLI_0029,Julie Moreau,49,Employé,10729.23,2024-06-29,20,151.31,Standard
+CLI_0030,Luc Lefebvre,25,Artisan/Commerçant,16910.21,2020-10-12,65,158.5,Standard
+CLI_0031,Jean Laurent,49,Cadre,13954.65,2021-08-04,55,103.77,Standard
+CLI_0032,Emma Leroy,31,Profession libérale,39283.37,2020-05-05,70,147.84,Standard
+CLI_0033,Marie Petit,26,Employé,11762.22,2021-01-10,62,135.67,Standard
+CLI_0034,Marie Leroy,70,Cadre,9561.78,2025-12-12,2,393.0,Standard
+CLI_0035,Luc Michel,72,Cadre,17503.37,2022-05-31,45,153.02,Standard
+CLI_0036,Alexandre Moreau,59,Retraité,16842.21,2024-03-20,23,169.9,Standard
+CLI_0037,David Michel,37,Employé,7616.25,2024-09-15,17,122.82,Standard
+CLI_0038,Julie Moreau,27,Retraité,39371.8,2025-02-01,13,130.25,Standard
+CLI_0039,Sophie Laurent,52,Cadre,8037.61,2023-10-28,28,145.06,Standard
+CLI_0040,Marie Martin,43,Employé,8743.11,2021-10-06,53,110.12,Standard
+CLI_0041,Alexandre Thomas,29,Profession libérale,22555.53,2024-02-24,24,270.12,Standard
+CLI_0042,François Robert,45,Étudiant,4868.04,2023-06-30,32,212.24,Standard
+CLI_0043,Marie Michel,23,Employé,3472.95,2023-08-21,30,204.68,Standard
+CLI_0044,Sophie Michel,67,Retraité,20915.23,2020-12-13,63,93.77,Standard
+CLI_0045,Marie Petit,35,Artisan/Commerçant,19233.47,2020-08-03,67,183.22,Standard
+CLI_0046,Luc Durand,51,Retraité,30545.74,2021-09-29,53,166.74,Standard
+CLI_0047,Alexandre Michel,37,Employé,7495.47,2021-10-06,53,88.12,Standard
+CLI_0048,Julie Dubois,46,Cadre,20593.59,2020-07-22,68,164.94,Standard
+CLI_0049,Julie Richard,47,Artisan/Commerçant,11747.47,2020-11-30,63,145.22,Standard
+CLI_0050,Sophie Simon,32,Cadre,16892.43,2023-01-19,37,89.81,Standard
+CLI_0051,Luc Laurent,72,Artisan/Commerçant,7517.32,2024-12-19,14,191.66,Standard
+CLI_0052,David Simon,57,Profession libérale,43812.78,2024-10-02,17,196.94,Standard
+CLI_0053,Alexandre Bernard,70,Fonctionnaire,8296.54,2025-06-12,8,191.44,Standard
+CLI_0054,Camille Simon,66,Étudiant,1793.58,2024-12-15,14,289.14,Standard
+CLI_0055,Pierre Leroy,49,Sans emploi,5597.29,2024-08-23,18,270.0,Standard
+CLI_0056,Laura Thomas,68,Employé,14590.99,2023-01-23,37,160.28,Standard
+CLI_0057,Pierre Durand,27,Étudiant,3216.37,2022-06-01,45,135.48,Standard
+CLI_0058,Thomas Robert,32,Employé,3000.73,2025-09-29,5,252.94,Standard
+CLI_0059,David Simon,25,Employé,2982.59,2021-04-11,59,158.12,Standard
+CLI_0060,Laura Leroy,38,Retraité,38445.54,2023-11-14,27,209.09,Standard
+CLI_0061,Sophie Simon,41,Artisan/Commerçant,9540.4,2024-10-26,16,112.45,Standard
+CLI_0062,Julie Michel,36,Sans emploi,1644.47,2021-03-30,59,141.5,Standard
+CLI_0063,François Lefebvre,61,Étudiant,3195.7,2023-03-06,36,176.77,Standard
+CLI_0064,Jean Thomas,39,Employé,10107.43,2025-06-16,8,264.81,Standard
+CLI_0065,Alice Martin,36,Employé,10430.56,2025-11-28,3,162.99,Standard
+CLI_0066,François Richard,47,Retraité,16556.86,2023-06-17,32,257.26,Standard
+CLI_0067,Thomas Robert,30,Employé,2196.44,2020-07-05,68,104.16,Standard
+CLI_0068,Marie Thomas,59,Cadre,48425.69,2022-06-22,44,111.03,Standard
+CLI_0069,David Moreau,26,Employé,5261.61,2024-06-06,21,132.94,Standard
+CLI_0070,David Laurent,73,Employé,10788.34,2020-08-12,67,119.63,Standard
+CLI_0071,Julie Thomas,57,Employé,11186.19,2020-02-01,73,170.81,Standard
+CLI_0072,Alexandre Durand,33,Employé,9930.1,2022-04-17,47,142.33,Standard
+CLI_0073,Thomas Simon,18,Cadre,19080.83,2023-05-19,33,140.98,Standard
+CLI_0074,Emma Dubois,60,Cadre,17199.33,2022-05-15,46,185.34,Standard
+CLI_0075,Luc Dubois,53,Sans emploi,5183.68,2021-07-16,56,185.55,Standard
+CLI_0076,Sophie Laurent,54,Employé,13259.24,2022-11-12,40,184.47,Standard
+CLI_0077,Nicolas Leroy,57,Employé,14307.54,2023-03-31,35,147.76,Standard
+CLI_0078,Luc Laurent,26,Retraité,11388.99,2023-09-05,30,190.25,Standard
+CLI_0079,Camille Petit,39,Employé,4012.77,2021-05-06,58,198.2,Standard
+CLI_0080,David Moreau,28,Fonctionnaire,19115.78,2020-02-01,73,172.64,Standard
+CLI_0081,Thomas Richard,64,Étudiant,3814.41,2025-07-30,7,156.79,Standard
+CLI_0082,Sophie Dubois,50,Cadre,44734.72,2024-10-29,16,113.04,Standard
+CLI_0083,Nicolas Durand,38,Employé,4634.22,2021-12-20,51,135.67,Standard
+CLI_0084,Marie Lefebvre,25,Artisan/Commerçant,15926.89,2021-06-13,57,189.11,Standard
+CLI_0085,Jean Michel,37,Fonctionnaire,15218.23,2024-04-06,23,207.74,Standard
+CLI_0086,Marie Dubois,38,Employé,10841.45,2025-12-21,2,274.45,Standard
+CLI_0087,Alexandre Dubois,54,Retraité,21060.85,2022-07-31,43,92.66,Standard
+CLI_0088,François Simon,50,Cadre,5692.77,2025-08-11,6,314.2,Standard
+CLI_0089,Thomas Moreau,66,Sans emploi,5080.48,2023-12-21,26,264.42,Standard
+CLI_0090,Marie Petit,44,Employé,5290.32,2020-10-22,65,125.65,Standard
+CLI_0091,Thomas Moreau,28,Fonctionnaire,11204.07,2024-06-14,20,255.12,Standard
+CLI_0092,Emma Leroy,53,Retraité,38642.59,2020-06-22,69,195.74,Standard
+CLI_0093,Luc Leroy,56,Retraité,20769.13,2024-11-21,15,140.75,Standard
+CLI_0094,Alice Martin,47,Profession libérale,68786.11,2020-03-17,72,142.8,Standard
+CLI_0095,Alexandre Laurent,57,Employé,4451.03,2025-02-26,12,157.43,Standard
+CLI_0096,Marie Simon,45,Cadre,35260.72,2020-11-14,64,175.14,Standard
+CLI_0097,David Leroy,46,Employé,14701.09,2023-07-06,32,215.52,Standard
+CLI_0098,François Robert,42,Cadre,9585.19,2024-10-24,16,226.92,Standard
+CLI_0099,François Simon,21,Étudiant,537.44,2024-07-14,19,259.58,Standard
+CLI_0100,Julie Bernard,28,Employé,7636.58,2024-09-06,18,179.19,Standard
+CLI_0101,Luc Petit,22,Cadre,9168.15,2023-03-31,35,283.02,Standard
+CLI_0102,Pierre Durand,50,Fonctionnaire,15974.15,2021-04-16,59,143.96,Standard
+CLI_0103,Jean Laurent,38,Artisan/Commerçant,23120.07,2024-07-17,19,131.59,Standard
+CLI_0104,David Laurent,45,Fonctionnaire,10944.34,2020-03-26,72,163.51,Standard
+CLI_0105,Luc Leroy,67,Sans emploi,2810.98,2023-08-23,30,258.65,Standard
+CLI_0106,François Dubois,35,Cadre,24548.15,2021-12-04,51,118.01,Standard
+CLI_0107,Nicolas Bernard,41,Employé,11404.82,2025-02-27,12,271.44,Standard
+CLI_0108,Alice Simon,55,Étudiant,540.74,2024-01-22,25,281.23,Standard
+CLI_0109,Luc Michel,34,Retraité,26862.53,2020-12-26,63,113.23,Standard
+CLI_0110,Alexandre Leroy,26,Cadre,32598.13,2024-11-23,15,296.7,Standard
+CLI_0111,Camille Thomas,37,Artisan/Commerçant,17029.14,2021-03-09,60,96.89,Standard
+CLI_0112,Pierre Richard,31,Employé,5146.29,2022-09-23,41,104.24,Standard
+CLI_0113,François Dubois,69,Employé,11282.69,2024-11-19,15,136.84,Standard
+CLI_0114,Nicolas Lefebvre,59,Profession libérale,16397.4,2024-06-28,20,278.8,Standard
+CLI_0115,David Leroy,50,Profession libérale,23948.92,2025-11-16,3,313.57,Standard
+CLI_0116,David Martin,64,Profession libérale,71422.9,2020-11-18,64,98.25,Standard
+CLI_0117,Camille Richard,59,Cadre,38242.54,2024-06-09,20,188.06,Standard
+CLI_0118,Emma Martin,32,Artisan/Commerçant,3302.4,2023-06-24,32,223.06,Standard
+CLI_0119,Marie Richard,66,Employé,5228.89,2023-10-22,28,116.69,Standard
+CLI_0120,David Michel,46,Cadre,14648.29,2022-06-26,44,185.89,Standard
+CLI_0121,François Robert,59,Artisan/Commerçant,8957.74,2023-09-26,29,260.72,Standard
+CLI_0122,Sophie Martin,66,Fonctionnaire,7960.96,2021-11-19,52,140.62,Standard
+CLI_0123,Sophie Moreau,38,Artisan/Commerçant,4375.58,2020-11-08,64,196.06,Standard
+CLI_0124,Marie Bernard,28,Artisan/Commerçant,13096.69,2025-09-21,5,254.44,Standard
+CLI_0125,Laura Durand,34,Retraité,31447.47,2021-04-12,59,198.09,Standard
+CLI_0126,Alice Bernard,42,Profession libérale,52471.22,2025-12-13,2,316.98,Standard
+CLI_0127,François Leroy,60,Cadre,35279.23,2025-09-19,5,308.67,Standard
+CLI_0128,François Dubois,64,Employé,3054.94,2022-03-05,48,99.91,Standard
+CLI_0129,Pierre Simon,19,Employé,14369.38,2023-12-02,27,276.39,Standard
+CLI_0130,Emma Leroy,45,Employé,12900.39,2023-12-09,27,185.5,Standard
+CLI_0131,Pierre Robert,42,Retraité,33762.89,2021-08-27,54,99.47,Standard
+CLI_0132,Nicolas Michel,34,Employé,12698.79,2022-08-25,42,81.51,Standard
+CLI_0133,Camille Petit,28,Cadre,46971.97,2021-02-25,60,147.17,Standard
+CLI_0134,Sophie Leroy,39,Employé,9075.3,2021-08-22,55,143.29,Standard
+CLI_0135,François Laurent,70,Retraité,14409.02,2022-11-14,40,166.32,Standard
+CLI_0136,Laura Thomas,38,Cadre,32755.26,2022-03-19,48,186.83,Standard
+CLI_0137,Laura Robert,46,Artisan/Commerçant,19343.39,2021-12-11,51,89.53,Standard
+CLI_0138,Thomas Simon,53,Employé,11592.93,2021-09-18,54,167.78,Standard
+CLI_0139,Alexandre Richard,40,Employé,8778.84,2020-11-04,64,102.49,Standard
+CLI_0140,Emma Leroy,72,Profession libérale,14792.11,2021-12-26,50,182.98,Standard
+CLI_0141,Emma Bernard,72,Artisan/Commerçant,11164.48,2025-07-16,7,354.77,Standard
+CLI_0142,Sophie Thomas,35,Employé,13969.97,2025-03-15,11,285.2,Standard
+CLI_0143,Marie Richard,45,Retraité,26702.37,2025-01-12,13,242.05,Standard
+CLI_0144,Jean Moreau,37,Profession libérale,47683.24,2023-08-16,30,162.87,Standard
+CLI_0145,Nicolas Thomas,36,Employé,5495.1,2023-07-18,31,194.23,Standard
+CLI_0146,Camille Thomas,23,Artisan/Commerçant,11105.88,2021-09-10,54,178.6,Standard
+CLI_0147,Jean Bernard,49,Étudiant,4529.06,2024-12-06,14,191.85,Standard
+CLI_0148,Laura Simon,45,Retraité,29326.82,2020-10-06,65,122.94,Standard
+CLI_0149,Jean Thomas,25,Artisan/Commerçant,20322.51,2025-04-04,11,273.55,Standard
+CLI_0150,Marie Martin,36,Artisan/Commerçant,12995.6,2024-12-16,14,265.65,Standard
+CLI_0151,Alice Richard,67,Retraité,28167.91,2023-05-25,33,167.04,Standard
+CLI_0152,Marie Leroy,35,Artisan/Commerçant,8464.44,2023-01-30,37,100.85,Standard
+CLI_0153,Sophie Robert,30,Retraité,30574.75,2020-08-18,67,165.44,Standard
+CLI_0154,Alexandre Durand,44,Retraité,21683.24,2023-12-12,26,265.2,Standard
+CLI_0155,Sophie Leroy,73,Retraité,22161.46,2025-09-09,5,175.16,Standard
+CLI_0156,Pierre Laurent,35,Étudiant,3421.95,2020-10-30,64,108.78,Standard
+CLI_0157,David Moreau,52,Cadre,47132.63,2023-06-25,32,128.39,Standard
+CLI_0158,Camille Durand,56,Artisan/Commerçant,4408.14,2025-03-06,11,236.99,Standard
+CLI_0159,Sophie Lefebvre,35,Artisan/Commerçant,21144.35,2025-01-25,13,190.07,Standard
+CLI_0160,Emma Lefebvre,54,Cadre,18157.24,2020-06-03,69,169.86,Standard
+CLI_0161,Thomas Thomas,40,Artisan/Commerçant,12766.23,2020-08-21,67,158.14,Standard
+CLI_0162,Marie Bernard,50,Cadre,5986.1,2024-02-19,24,224.19,Standard
+CLI_0163,Alexandre Petit,50,Employé,5913.6,2023-03-21,35,170.47,Standard
+CLI_0164,Julie Petit,46,Retraité,24084.2,2020-11-10,64,180.97,Standard
+CLI_0165,Thomas Durand,27,Cadre,7527.92,2021-01-04,62,136.55,Standard
+CLI_0166,Alice Laurent,62,Artisan/Commerçant,13804.11,2025-09-07,5,394.78,Standard
+CLI_0167,Jean Simon,38,Artisan/Commerçant,23396.43,2024-04-23,22,226.83,Standard
+CLI_0168,Alexandre Simon,32,Profession libérale,17377.53,2025-03-10,11,181.57,Standard
+CLI_0169,Marie Martin,24,Cadre,39399.83,2020-06-17,69,161.14,Standard
+CLI_0170,Thomas Laurent,48,Employé,7325.72,2025-01-16,13,165.02,Standard
+CLI_0171,Julie Lefebvre,52,Retraité,28965.56,2022-02-10,49,162.36,Standard
+CLI_0172,Alice Bernard,20,Sans emploi,2821.66,2023-08-09,31,113.93,Standard
+CLI_0173,Sophie Thomas,45,Retraité,13103.75,2025-05-02,10,193.72,Standard
+CLI_0174,Sophie Leroy,34,Employé,4086.01,2025-08-15,6,363.93,Standard
+CLI_0175,Emma Dubois,51,Retraité,10255.74,2021-09-09,54,107.26,Standard
+CLI_0176,Thomas Dubois,31,Profession libérale,22995.27,2020-09-10,66,180.44,Standard
+CLI_0177,Luc Durand,52,Étudiant,3488.99,2025-01-19,13,155.86,Standard
+CLI_0178,Sophie Michel,40,Cadre,44676.08,2021-02-27,60,157.15,Standard
+CLI_0179,David Bernard,70,Étudiant,4163.57,2023-11-07,28,238.83,Standard
+CLI_0180,Emma Lefebvre,29,Profession libérale,57959.4,2020-12-11,63,141.52,Standard
+CLI_0181,Alice Michel,39,Fonctionnaire,5766.91,2025-08-28,6,226.33,Standard
+CLI_0182,Nicolas Bernard,28,Employé,5759.44,2021-12-07,51,105.52,Standard
+CLI_0183,Jean Simon,69,Retraité,17913.82,2020-06-09,69,83.98,Standard
+CLI_0184,Nicolas Michel,65,Fonctionnaire,7999.31,2022-10-11,41,116.47,Standard
+CLI_0185,Jean Bernard,35,Cadre,28175.25,2024-11-28,15,230.63,Standard
+CLI_0186,David Lefebvre,51,Fonctionnaire,12568.86,2024-12-04,15,287.66,Standard
+CLI_0187,Alice Thomas,60,Retraité,19420.35,2025-11-16,3,367.8,Standard
+CLI_0188,Pierre Petit,47,Cadre,20920.51,2025-11-11,3,341.52,Standard
+CLI_0189,Emma Durand,46,Employé,12771.22,2021-10-12,53,174.61,Standard
+CLI_0190,Sophie Michel,35,Retraité,33257.37,2024-01-30,25,233.0,Standard
+CLI_0191,Thomas Martin,27,Cadre,18850.81,2024-03-07,24,152.06,Standard
+CLI_0192,Pierre Petit,66,Profession libérale,73965.19,2023-03-04,36,188.86,Standard
+CLI_0193,Jean Petit,67,Employé,14386.6,2024-05-05,22,234.15,Standard
+CLI_0194,Luc Lefebvre,50,Retraité,18455.76,2024-08-01,19,212.09,Standard
+CLI_0195,François Durand,39,Cadre,20949.12,2023-10-17,28,122.2,Standard
+CLI_0196,Luc Petit,39,Artisan/Commerçant,14123.95,2020-08-02,67,133.65,Standard
+CLI_0197,Laura Laurent,54,Fonctionnaire,19057.93,2023-10-02,29,192.07,Standard
+CLI_0198,François Leroy,66,Fonctionnaire,18021.11,2020-09-26,66,183.75,Standard
+CLI_0199,Alexandre Laurent,66,Retraité,11282.17,2023-09-12,30,209.33,Standard
+CLI_0200,Emma Dubois,57,Cadre,22672.88,2021-01-22,62,125.65,Standard
+CLI_0201,Sophie Robert,50,Étudiant,2990.17,2024-05-02,22,295.36,Standard
+CLI_0202,Sophie Martin,27,Cadre,27640.96,2023-03-09,36,93.29,Standard
+CLI_0203,Camille Laurent,31,Cadre,13723.84,2022-10-29,40,130.71,Standard
+CLI_0204,Nicolas Martin,67,Employé,13164.62,2021-09-07,54,85.04,Standard
+CLI_0205,Laura Richard,49,Employé,10800.23,2023-09-27,29,247.98,Standard
+CLI_0206,Jean Martin,19,Étudiant,4270.59,2020-11-29,63,190.17,Standard
+CLI_0207,Camille Durand,27,Retraité,35480.46,2021-08-02,55,113.6,Standard
+CLI_0208,Nicolas Michel,51,Employé,11728.63,2023-12-03,27,271.67,Standard
+CLI_0209,Nicolas Dubois,18,Employé,7709.74,2023-06-24,32,158.44,Standard
+CLI_0210,Jean Leroy,31,Sans emploi,5273.83,2024-05-24,21,282.15,Standard
+CLI_0211,Marie Michel,47,Employé,4084.75,2021-06-12,57,170.48,Standard
+CLI_0212,Pierre Bernard,52,Employé,10757.39,2020-12-13,63,176.59,Standard
+CLI_0213,Camille Bernard,51,Cadre,13066.4,2023-06-22,32,103.6,Standard
+CLI_0214,Alexandre Michel,34,Étudiant,3622.77,2024-03-22,23,292.56,Standard
+CLI_0215,Sophie Petit,53,Retraité,15347.14,2023-09-07,30,245.33,Standard
+CLI_0216,Marie Moreau,35,Employé,3528.17,2021-06-07,57,116.57,Standard
+CLI_0217,Sophie Moreau,38,Cadre,12437.8,2025-11-26,3,357.35,Standard
+CLI_0218,Camille Martin,55,Retraité,8063.75,2021-01-17,62,113.78,Standard
+CLI_0219,Camille Bernard,51,Retraité,30999.67,2024-09-30,17,274.55,Standard
+CLI_0220,Thomas Simon,63,Employé,11521.21,2025-09-13,5,178.15,Standard
+CLI_0221,Camille Moreau,51,Fonctionnaire,12238.93,2024-01-22,25,240.74,Standard
+CLI_0222,Nicolas Richard,48,Cadre,12261.33,2020-03-15,72,144.88,Standard
+CLI_0223,David Robert,27,Employé,3086.21,2024-01-25,25,119.31,Standard
+CLI_0224,Sophie Simon,40,Fonctionnaire,4306.06,2023-06-19,32,148.38,Standard
+CLI_0225,Laura Richard,36,Employé,4154.73,2022-01-08,50,81.49,Standard
+CLI_0226,Sophie Robert,35,Retraité,36507.38,2022-05-27,45,136.25,Standard
+CLI_0227,Thomas Dubois,72,Employé,5139.98,2023-10-31,28,160.25,Standard
+CLI_0228,Alexandre Simon,41,Employé,6605.53,2025-06-14,8,299.59,Standard
+CLI_0229,Luc Durand,66,Sans emploi,1737.42,2022-02-25,48,115.67,Standard
+CLI_0230,Julie Lefebvre,50,Employé,4890.7,2022-07-16,44,115.99,Standard
+CLI_0231,David Bernard,58,Artisan/Commerçant,14422.94,2021-07-17,56,169.18,Standard
+CLI_0232,Jean Durand,45,Employé,9900.78,2021-09-26,53,85.78,Standard
+CLI_0233,Camille Moreau,48,Employé,5189.58,2020-11-12,64,188.35,Standard
+CLI_0234,Marie Bernard,45,Cadre,7597.95,2023-04-26,34,270.45,Standard
+CLI_0235,Nicolas Thomas,32,Retraité,20513.05,2021-02-18,61,160.14,Standard
+CLI_0236,Nicolas Robert,54,Employé,5044.64,2025-09-10,5,298.31,Standard
+CLI_0237,Pierre Richard,36,Artisan/Commerçant,7830.19,2025-11-26,3,373.08,Standard
+CLI_0238,David Bernard,21,Employé,14478.22,2020-06-03,69,102.24,Standard
+CLI_0239,David Thomas,51,Fonctionnaire,13860.81,2023-10-11,29,115.79,Standard
+CLI_0240,Julie Robert,31,Cadre,30059.53,2021-06-20,57,108.74,Standard
+CLI_0241,Pierre Durand,70,Artisan/Commerçant,12147.05,2024-03-23,23,258.92,Standard
+CLI_0242,Alice Leroy,71,Étudiant,2430.25,2021-09-23,53,84.16,Standard
+CLI_0243,Laura Robert,68,Étudiant,2934.07,2021-10-26,52,149.94,Standard
+CLI_0244,Camille Lefebvre,40,Artisan/Commerçant,18321.46,2022-01-10,50,199.45,Standard
+CLI_0245,Alexandre Leroy,20,Étudiant,3659.66,2021-11-09,52,182.68,Standard
+CLI_0246,Jean Simon,69,Retraité,13494.21,2024-11-27,15,204.29,Standard
+CLI_0247,Alice Leroy,42,Cadre,27505.07,2020-06-27,69,87.64,Standard
+CLI_0248,Luc Simon,72,Cadre,23538.11,2024-08-09,18,266.27,Standard
+CLI_0249,Marie Dubois,72,Fonctionnaire,17928.43,2024-02-01,25,219.8,Standard
+CLI_0250,Luc Bernard,63,Retraité,28205.41,2022-08-30,42,93.79,Standard
+CLI_0251,David Bernard,37,Étudiant,2896.27,2024-12-24,14,118.77,Standard
+CLI_0252,Laura Leroy,40,Employé,3500.13,2023-03-13,36,189.16,Standard
+CLI_0253,Pierre Robert,63,Cadre,32253.71,2025-01-12,13,233.84,Standard
+CLI_0254,Luc Moreau,38,Cadre,10274.18,2022-08-16,43,179.51,Standard
+CLI_0255,Sophie Laurent,31,Retraité,18790.61,2025-12-27,2,369.74,Standard
+CLI_0256,Julie Thomas,47,Employé,3856.95,2022-09-06,42,148.61,Standard
+CLI_0257,Alexandre Simon,69,Employé,10996.96,2023-06-21,32,203.49,Standard
+CLI_0258,Alice Robert,53,Employé,4681.28,2025-04-05,10,257.61,Standard
+CLI_0259,Nicolas Durand,48,Cadre,22633.67,2022-03-05,48,118.03,Standard
+CLI_0260,Luc Michel,27,Profession libérale,72697.23,2024-02-15,24,186.92,Standard
+CLI_0261,Jean Bernard,49,Employé,4656.11,2024-12-09,14,254.78,Standard
+CLI_0262,Alexandre Petit,74,Étudiant,2785.12,2025-03-06,11,300.48,Standard
+CLI_0263,Alice Robert,29,Employé,7450.53,2023-02-28,36,187.1,Standard
+CLI_0264,Jean Martin,46,Employé,2235.61,2024-04-13,22,188.68,Standard
+CLI_0265,Julie Lefebvre,65,Cadre,40674.12,2025-08-21,6,301.77,Standard
+CLI_0266,Pierre Simon,54,Cadre,8107.07,2025-11-30,3,307.83,Standard
+CLI_0267,Luc Dubois,53,Employé,8165.32,2024-09-10,17,218.34,Standard
+CLI_0268,Laura Durand,53,Employé,9288.82,2021-10-25,52,164.32,Standard
+CLI_0269,Nicolas Laurent,39,Retraité,28109.65,2022-03-28,47,108.49,Standard
+CLI_0270,Thomas Leroy,37,Employé,10952.21,2021-07-20,56,141.48,Standard
+CLI_0271,Jean Bernard,60,Retraité,16104.72,2022-10-21,40,92.51,Standard
+CLI_0272,Marie Laurent,60,Artisan/Commerçant,3219.53,2020-08-01,67,126.14,Standard
+CLI_0273,David Dubois,64,Étudiant,3755.5,2025-05-22,9,271.92,Standard
+CLI_0274,Nicolas Martin,68,Cadre,29104.55,2024-02-29,24,230.44,Standard
+CLI_0275,Alice Richard,45,Employé,12869.53,2021-02-24,61,194.06,Standard
+CLI_0276,Camille Leroy,45,Cadre,41962.48,2025-10-14,4,300.16,Standard
+CLI_0277,Pierre Petit,59,Employé,12963.24,2021-05-25,58,169.23,Standard
+CLI_0278,Pierre Martin,51,Sans emploi,4395.66,2023-03-13,36,140.75,Standard
+CLI_0279,Luc Richard,53,Cadre,20013.28,2020-12-09,63,156.09,Standard
+CLI_0280,David Lefebvre,58,Employé,12290.26,2021-10-18,53,88.51,Standard
+CLI_0281,Alice Martin,66,Retraité,22441.41,2023-01-22,37,110.53,Standard
+CLI_0282,David Richard,39,Retraité,13870.15,2025-01-14,13,172.37,Standard
+CLI_0283,Sophie Simon,40,Profession libérale,69848.18,2025-10-03,4,268.12,Standard
+CLI_0284,Sophie Simon,27,Cadre,44715.19,2021-08-26,54,85.48,Standard
+CLI_0285,Marie Richard,48,Employé,8062.03,2024-11-26,15,128.0,Standard
+CLI_0286,François Leroy,23,Profession libérale,15298.98,2021-01-10,62,113.22,Standard
+CLI_0287,David Michel,44,Cadre,22452.17,2022-06-28,44,196.58,Standard
+CLI_0288,Thomas Moreau,47,Employé,12445.99,2025-01-21,13,166.27,Standard
+CLI_0289,Laura Dubois,36,Cadre,45579.83,2023-12-02,27,196.41,Standard
+CLI_0290,David Thomas,48,Cadre,14156.27,2020-04-19,71,103.53,Standard
+CLI_0291,Alice Dubois,22,Employé,2870.66,2024-08-26,18,222.16,Standard
+CLI_0292,François Lefebvre,23,Cadre,44480.77,2020-08-06,67,113.68,Standard
+CLI_0293,Pierre Petit,61,Profession libérale,37258.35,2024-06-11,20,141.4,Standard
+CLI_0294,Jean Dubois,39,Retraité,25336.35,2025-08-18,6,279.14,Standard
+CLI_0295,Laura Richard,29,Artisan/Commerçant,24297.45,2024-03-11,23,101.1,Standard
+CLI_0296,François Petit,46,Employé,2865.34,2022-08-23,42,80.92,Standard
+CLI_0297,François Simon,56,Cadre,34174.31,2024-04-30,22,143.81,Standard
+CLI_0298,Alice Laurent,33,Cadre,8334.74,2020-11-30,63,84.41,Standard
+CLI_0299,François Thomas,50,Retraité,20015.01,2024-03-15,23,121.61,Standard
+CLI_0300,Luc Dubois,27,Retraité,33722.07,2022-07-08,44,120.66,Standard
+CLI_0301,François Laurent,25,Cadre,24506.25,2020-04-25,71,176.31,Standard
+CLI_0302,Marie Petit,46,Fonctionnaire,19954.92,2023-07-29,31,214.41,Standard
+CLI_0303,Alice Martin,46,Cadre,30157.67,2021-02-09,61,141.52,Standard
+CLI_0304,Alice Durand,50,Profession libérale,32481.35,2023-10-05,29,158.7,Standard
+CLI_0305,Sophie Thomas,54,Retraité,15043.56,2021-08-21,55,191.81,Standard
+CLI_0306,Alice Durand,73,Artisan/Commerçant,10711.45,2021-07-17,56,127.64,Standard
+CLI_0307,Julie Robert,46,Retraité,19921.06,2020-06-05,69,90.45,Standard
+CLI_0308,Alice Lefebvre,38,Artisan/Commerçant,4511.7,2023-03-21,35,223.41,Standard
+CLI_0309,Alice Thomas,58,Employé,6804.46,2025-04-19,10,178.46,Standard
+CLI_0310,Sophie Martin,36,Artisan/Commerçant,13213.25,2021-07-22,56,121.43,Standard
+CLI_0311,Alexandre Thomas,42,Cadre,37523.2,2025-04-05,10,276.85,Standard
+CLI_0312,Thomas Richard,26,Artisan/Commerçant,17448.05,2025-01-11,13,274.84,Standard
+CLI_0313,Luc Michel,21,Profession libérale,59613.6,2020-01-22,74,139.23,Standard
+CLI_0314,Marie Lefebvre,72,Artisan/Commerçant,3184.0,2020-11-20,64,164.27,Standard
+CLI_0315,Luc Richard,62,Employé,4829.68,2020-03-18,72,199.14,Standard
+CLI_0316,Alexandre Leroy,53,Retraité,29173.9,2022-11-14,40,95.78,Standard
+CLI_0317,Thomas Simon,41,Profession libérale,43879.26,2022-06-02,45,112.97,Standard
+CLI_0318,Alice Leroy,31,Retraité,8170.03,2021-09-04,54,127.35,Standard
+CLI_0319,Julie Martin,30,Cadre,41202.26,2025-12-01,2,255.46,Standard
+CLI_0320,Marie Robert,35,Cadre,39776.43,2024-09-29,17,182.2,Standard
+CLI_0321,Pierre Moreau,47,Employé,9129.45,2021-03-31,59,188.91,Standard
+CLI_0322,Luc Martin,53,Cadre,7990.85,2023-03-26,35,242.81,Standard
+CLI_0323,Marie Moreau,51,Artisan/Commerçant,19863.33,2022-08-31,42,152.95,Standard
+CLI_0324,Thomas Richard,36,Employé,9588.28,2023-05-18,33,161.87,Standard
+CLI_0325,Laura Lefebvre,71,Fonctionnaire,16511.36,2021-05-14,58,178.85,Standard
+CLI_0326,Julie Petit,54,Employé,11772.71,2020-07-14,68,194.61,Standard
+CLI_0327,Camille Leroy,47,Cadre,41135.09,2022-09-03,42,178.54,Standard
+CLI_0328,Marie Petit,49,Étudiant,2831.04,2024-09-15,17,100.31,Standard
+CLI_0329,David Moreau,42,Retraité,12490.38,2025-02-15,12,227.28,Standard
+CLI_0330,Sophie Robert,35,Employé,10725.05,2020-09-14,66,86.14,Standard
+CLI_0331,Jean Laurent,39,Profession libérale,53433.16,2021-03-30,59,110.91,Standard
+CLI_0332,Thomas Martin,55,Retraité,31752.1,2025-08-09,6,164.88,Standard
+CLI_0333,Nicolas Lefebvre,20,Employé,4208.45,2020-03-08,72,152.46,Standard
+CLI_0334,Nicolas Simon,28,Sans emploi,2364.83,2025-10-11,4,321.65,Standard
+CLI_0335,Laura Laurent,25,Fonctionnaire,18246.55,2022-09-17,42,93.74,Standard
+CLI_0336,Laura Simon,24,Retraité,31999.29,2021-08-11,55,126.06,Standard
+CLI_0337,Sophie Richard,63,Cadre,45870.28,2023-04-08,35,191.25,Standard
+CLI_0338,Thomas Bernard,53,Retraité,32278.89,2024-10-24,16,173.81,Standard
+CLI_0339,Alexandre Richard,44,Cadre,31871.99,2020-01-07,74,94.52,Standard
+CLI_0340,Camille Richard,27,Cadre,34435.97,2023-12-16,26,183.79,Standard
+CLI_0341,Alexandre Michel,45,Employé,13558.66,2022-09-12,42,170.14,Standard
+CLI_0342,Marie Laurent,44,Employé,9524.49,2024-09-02,18,114.2,Standard
+CLI_0343,David Robert,31,Artisan/Commerçant,16912.61,2022-02-06,49,89.62,Standard
+CLI_0344,Nicolas Robert,42,Retraité,13007.25,2020-12-16,63,122.57,Standard
+CLI_0345,Alexandre Petit,41,Retraité,23165.48,2025-11-14,3,385.43,Standard
+CLI_0346,Julie Petit,49,Employé,11313.16,2024-01-17,25,233.71,Standard
+CLI_0347,Laura Robert,50,Employé,5522.26,2020-10-04,65,161.44,Standard
+CLI_0348,Nicolas Dubois,25,Employé,4629.3,2025-11-24,3,240.48,Standard
+CLI_0349,Sophie Petit,40,Sans emploi,3196.79,2025-09-09,5,298.42,Standard
+CLI_0350,Alexandre Petit,50,Cadre,15867.53,2025-09-10,5,152.53,Standard
+CLI_0351,Alexandre Laurent,45,Artisan/Commerçant,7728.08,2020-03-24,72,156.33,Standard
+CLI_0352,David Dubois,63,Profession libérale,39739.56,2024-05-18,21,282.66,Standard
+CLI_0353,Camille Moreau,51,Employé,13801.9,2025-04-09,10,303.14,Standard
+CLI_0354,Luc Petit,31,Retraité,24225.91,2020-06-27,69,184.84,Standard
+CLI_0355,Nicolas Michel,26,Employé,4442.96,2024-05-03,22,244.79,Standard
+CLI_0356,Jean Robert,50,Artisan/Commerçant,4693.38,2024-03-09,24,124.11,Standard
+CLI_0357,Luc Thomas,22,Fonctionnaire,15138.5,2022-11-04,40,188.29,Standard
+CLI_0358,Thomas Lefebvre,48,Employé,6976.38,2020-03-07,72,87.97,Standard
+CLI_0359,Camille Moreau,70,Employé,12683.8,2024-01-02,26,206.79,Standard
+CLI_0360,Alexandre Richard,48,Profession libérale,56165.75,2020-10-03,65,97.06,Standard
+CLI_0361,Emma Durand,40,Fonctionnaire,16739.86,2023-11-13,27,102.34,Standard
+CLI_0362,Emma Simon,50,Employé,5535.3,2022-09-14,42,130.64,Standard
+CLI_0363,Sophie Leroy,43,Retraité,30155.49,2021-02-28,60,115.4,Standard
+CLI_0364,Emma Lefebvre,47,Retraité,16449.98,2023-09-23,29,197.2,Standard
+CLI_0365,David Lefebvre,70,Retraité,38050.19,2021-06-30,56,149.26,Standard
+CLI_0366,Laura Dubois,40,Cadre,33636.84,2020-06-30,68,85.25,Standard
+CLI_0367,Alexandre Bernard,71,Retraité,18384.38,2023-12-14,26,124.6,Standard
+CLI_0368,Luc Leroy,67,Fonctionnaire,8312.19,2023-10-18,28,211.73,Standard
+CLI_0369,Alexandre Simon,32,Cadre,13591.7,2021-12-18,51,121.18,Standard
+CLI_0370,Camille Richard,26,Employé,11030.33,2025-03-18,11,332.29,Standard
+CLI_0371,Marie Michel,27,Fonctionnaire,7499.45,2025-05-14,9,313.07,Standard
+CLI_0372,François Thomas,20,Cadre,31788.65,2022-01-16,50,181.47,Standard
+CLI_0373,Alexandre Robert,27,Artisan/Commerçant,8821.97,2021-07-06,56,163.1,Standard
+CLI_0374,Sophie Lefebvre,52,Employé,10605.6,2020-09-15,66,131.59,Standard
+CLI_0375,Sophie Dubois,26,Employé,12594.22,2025-02-17,12,234.59,Standard
+CLI_0376,Jean Martin,38,Artisan/Commerçant,20116.56,2020-05-31,69,113.05,Standard
+CLI_0377,Sophie Durand,62,Employé,11891.07,2023-04-16,34,161.26,Standard
+CLI_0378,Camille Michel,21,Profession libérale,23140.57,2022-04-05,47,174.68,Standard
+CLI_0379,François Bernard,60,Employé,3149.0,2020-06-28,69,133.57,Standard
+CLI_0380,Emma Petit,36,Profession libérale,58926.42,2022-03-28,47,175.81,Standard
+CLI_0381,David Simon,28,Cadre,21575.62,2020-06-20,69,178.69,Standard
+CLI_0382,Camille Thomas,53,Employé,7620.5,2023-07-16,31,271.51,Standard
+CLI_0383,Laura Laurent,50,Fonctionnaire,4498.39,2023-06-24,32,283.33,Standard
+CLI_0384,Thomas Durand,65,Employé,5374.49,2025-10-12,4,257.75,Standard
+CLI_0385,Thomas Thomas,54,Retraité,9077.64,2024-06-19,20,163.77,Standard
+CLI_0386,Pierre Simon,59,Employé,13429.42,2025-04-23,10,295.55,Standard
+CLI_0387,Laura Martin,36,Étudiant,1595.29,2022-11-03,40,124.54,Standard
+CLI_0388,David Lefebvre,31,Cadre,30080.17,2020-05-29,70,152.13,Standard
+CLI_0389,Alice Lefebvre,55,Fonctionnaire,4623.67,2022-02-21,48,164.67,Standard
+CLI_0390,David Bernard,59,Employé,10669.02,2023-03-17,35,237.68,Standard
+CLI_0391,François Petit,74,Employé,6199.36,2024-01-02,26,174.91,Standard
+CLI_0392,Sophie Dubois,41,Cadre,45406.36,2020-07-14,68,100.02,Standard
+CLI_0393,François Laurent,40,Cadre,44965.32,2023-09-21,29,186.11,Standard
+CLI_0394,Nicolas Durand,57,Profession libérale,32770.34,2023-01-24,37,97.11,Standard
+CLI_0395,Jean Leroy,39,Employé,13712.49,2021-05-24,58,186.81,Standard
+CLI_0396,Sophie Michel,69,Artisan/Commerçant,24915.47,2024-02-16,24,169.18,Standard
+CLI_0397,Marie Durand,63,Employé,12730.4,2024-11-24,15,130.89,Standard
+CLI_0398,Pierre Lefebvre,42,Employé,12983.33,2024-06-26,20,105.09,Standard
+CLI_0399,Emma Simon,55,Retraité,15968.28,2024-12-06,14,229.16,Standard
+CLI_0400,Nicolas Leroy,55,Retraité,26454.48,2024-05-02,22,227.38,Standard
+CLI_0401,Camille Richard,28,Cadre,8026.52,2023-10-20,28,168.12,Standard
+CLI_0402,François Durand,67,Cadre,9271.31,2022-02-04,49,88.61,Standard
+CLI_0403,Camille Michel,45,Cadre,49950.17,2025-07-25,7,252.41,Standard
+CLI_0404,Laura Leroy,61,Retraité,18452.46,2025-07-30,7,227.8,Standard
+CLI_0405,Thomas Michel,38,Retraité,31941.89,2024-02-13,24,235.42,Standard
+CLI_0406,David Leroy,66,Employé,12486.65,2025-10-27,4,301.44,Standard
+CLI_0407,Emma Dubois,41,Artisan/Commerçant,21876.51,2022-12-28,38,123.75,Standard
+CLI_0408,Laura Michel,19,Artisan/Commerçant,24947.82,2020-12-04,63,106.15,Standard
+CLI_0409,Emma Durand,67,Profession libérale,26904.75,2024-10-04,17,297.61,Standard
+CLI_0410,Luc Lefebvre,27,Artisan/Commerçant,3887.72,2020-11-19,64,134.48,Standard
+CLI_0411,Sophie Michel,38,Employé,7345.49,2024-10-29,16,237.65,Standard
+CLI_0412,Alexandre Robert,71,Cadre,10853.63,2022-01-09,50,96.87,Standard
+CLI_0413,François Lefebvre,71,Employé,2291.54,2023-04-18,34,197.12,Standard
+CLI_0414,Nicolas Durand,48,Cadre,21219.21,2023-08-08,31,105.51,Standard
+CLI_0415,Alexandre Thomas,50,Profession libérale,64861.68,2021-02-24,61,140.65,Standard
+CLI_0416,Luc Durand,43,Fonctionnaire,13058.89,2020-11-23,64,195.68,Standard
+CLI_0417,Marie Laurent,37,Cadre,19075.01,2023-09-05,30,176.84,Standard
+CLI_0418,Luc Thomas,38,Cadre,34445.39,2023-04-25,34,107.8,Standard
+CLI_0419,Luc Richard,52,Employé,5016.24,2023-06-09,33,106.19,Standard
+CLI_0420,Julie Leroy,55,Fonctionnaire,4230.1,2024-12-31,14,177.6,Standard
+CLI_0421,Marie Dubois,58,Employé,11936.59,2024-10-11,16,132.0,Standard
+CLI_0422,Pierre Thomas,58,Profession libérale,53662.02,2021-11-13,52,82.8,Standard
+CLI_0423,Thomas Laurent,27,Cadre,39303.62,2024-12-23,14,251.24,Standard
+CLI_0424,Pierre Laurent,45,Cadre,6752.21,2023-12-10,27,191.7,Standard
+CLI_0425,Sophie Bernard,25,Sans emploi,6859.84,2025-01-05,13,157.85,Standard
+CLI_0426,Thomas Petit,47,Fonctionnaire,13912.42,2020-06-22,69,188.01,Standard
+CLI_0427,Julie Leroy,43,Cadre,30352.79,2023-12-15,26,123.23,Standard
+CLI_0428,Emma Petit,66,Fonctionnaire,13993.82,2024-11-16,15,291.18,Standard
+CLI_0429,Jean Thomas,39,Retraité,35661.86,2023-01-29,37,117.68,Standard
+CLI_0430,Alice Petit,28,Artisan/Commerçant,15912.6,2020-08-22,67,186.61,Standard
+CLI_0431,Thomas Lefebvre,30,Employé,9552.35,2020-11-03,64,152.35,Standard
+CLI_0432,Camille Laurent,56,Profession libérale,79347.54,2024-07-21,19,265.34,Standard
+CLI_0433,Jean Michel,50,Employé,11837.49,2024-01-28,25,296.8,Standard
+CLI_0434,David Lefebvre,27,Retraité,22153.4,2025-10-02,4,222.1,Standard
+CLI_0435,Camille Petit,27,Cadre,36832.87,2021-10-17,53,195.34,Standard
+CLI_0436,Emma Martin,53,Cadre,22515.37,2020-05-07,70,126.74,Standard
+CLI_0437,Julie Robert,26,Employé,4975.38,2021-08-07,55,126.26,Standard
+CLI_0438,François Petit,61,Retraité,27099.26,2024-11-29,15,168.08,Standard
+CLI_0439,Alice Michel,53,Employé,14066.37,2020-05-22,70,144.97,Standard
+CLI_0440,Thomas Leroy,26,Retraité,37732.46,2021-06-01,57,98.5,Standard
+CLI_0441,Laura Laurent,27,Fonctionnaire,9470.48,2020-10-02,65,146.45,Standard
+CLI_0442,Nicolas Lefebvre,73,Cadre,28745.49,2022-08-24,42,145.0,Standard
+CLI_0443,Camille Thomas,40,Retraité,14772.35,2024-02-09,25,252.38,Standard
+CLI_0444,Emma Thomas,40,Employé,14943.2,2024-01-23,25,266.73,Standard
+CLI_0445,Luc Petit,60,Artisan/Commerçant,24584.59,2024-04-17,22,188.09,Standard
+CLI_0446,Emma Martin,70,Cadre,34227.9,2020-05-12,70,116.28,Standard
+CLI_0447,Thomas Richard,73,Retraité,33741.25,2021-09-20,54,111.12,Standard
+CLI_0448,Alexandre Simon,55,Artisan/Commerçant,18732.2,2025-01-16,13,138.92,Standard
+CLI_0449,François Petit,40,Fonctionnaire,13490.53,2024-02-28,24,111.53,Standard
+CLI_0450,Laura Dubois,27,Retraité,9707.14,2024-03-03,24,168.49,Standard
+CLI_0451,Alice Durand,57,Employé,7911.94,2024-12-23,14,154.05,Standard
+CLI_0452,David Dubois,47,Retraité,29593.16,2020-11-10,64,195.97,Standard
+CLI_0453,Camille Leroy,42,Artisan/Commerçant,17905.7,2021-07-17,56,146.93,Standard
+CLI_0454,Jean Petit,67,Profession libérale,36118.58,2025-12-08,2,236.82,Standard
+CLI_0455,Camille Moreau,28,Cadre,47376.14,2024-02-12,24,216.09,Standard
+CLI_0456,Alexandre Martin,45,Fonctionnaire,6677.71,2024-06-18,20,127.84,Standard
+CLI_0457,Marie Simon,19,Retraité,24011.5,2023-07-11,32,188.81,Standard
+CLI_0458,Thomas Dubois,44,Retraité,30108.29,2023-02-15,36,155.15,Standard
+CLI_0459,Alice Durand,25,Employé,11062.77,2022-10-19,40,138.67,Standard
+CLI_0460,Pierre Martin,28,Retraité,28756.45,2021-04-09,59,128.21,Standard
+CLI_0461,Luc Petit,28,Employé,5578.75,2020-04-16,71,199.26,Standard
+CLI_0462,Julie Thomas,51,Retraité,12998.61,2022-02-01,49,185.64,Standard
+CLI_0463,Emma Richard,55,Cadre,33617.31,2025-08-06,6,305.85,Standard
+CLI_0464,Julie Lefebvre,48,Retraité,27177.67,2025-10-21,4,292.34,Standard
+CLI_0465,David Petit,72,Sans emploi,2255.49,2024-05-04,22,224.13,Standard
+CLI_0466,Luc Lefebvre,40,Cadre,36731.26,2021-04-27,58,104.16,Standard
+CLI_0467,Alice Petit,36,Fonctionnaire,11282.75,2022-12-08,39,127.42,Standard
+CLI_0468,Luc Michel,64,Employé,10680.89,2022-12-02,39,84.74,Standard
+CLI_0469,Marie Durand,34,Artisan/Commerçant,21422.08,2025-01-01,14,195.11,Standard
+CLI_0470,Jean Laurent,72,Étudiant,1263.78,2022-05-28,45,145.16,Standard
+CLI_0471,Nicolas Martin,19,Profession libérale,11340.14,2023-03-15,36,107.33,Standard
+CLI_0472,Julie Thomas,72,Retraité,32931.28,2025-07-04,7,391.01,Standard
+CLI_0473,Alexandre Bernard,24,Artisan/Commerçant,16413.34,2022-03-30,47,189.13,Standard
+CLI_0474,François Simon,66,Employé,11095.31,2021-05-17,58,166.66,Standard
+CLI_0475,Jean Lefebvre,46,Employé,12896.01,2021-07-09,56,144.01,Standard
+CLI_0476,Jean Thomas,74,Retraité,33689.95,2020-10-30,64,184.4,Standard
+CLI_0477,Sophie Michel,26,Artisan/Commerçant,24140.24,2025-01-25,13,126.13,Standard
+CLI_0478,Jean Moreau,47,Étudiant,2911.71,2021-12-08,51,174.86,Standard
+CLI_0479,Pierre Thomas,72,Étudiant,2698.23,2024-12-28,14,124.96,Standard
+CLI_0480,Pierre Durand,46,Employé,7224.53,2020-12-25,63,175.31,Standard
+CLI_0481,Alexandre Bernard,50,Artisan/Commerçant,6381.2,2023-08-02,31,155.15,Standard
+CLI_0482,Camille Thomas,53,Cadre,30767.33,2023-11-24,27,275.42,Standard
+CLI_0483,Emma Laurent,43,Profession libérale,29390.88,2020-09-22,66,193.29,Standard
+CLI_0484,Luc Lefebvre,50,Cadre,46458.84,2023-04-04,35,129.76,Standard
+CLI_0485,Julie Dubois,48,Employé,9581.48,2023-05-13,34,192.54,Standard
+CLI_0486,Camille Moreau,67,Employé,9706.92,2021-10-07,53,197.72,Standard
+CLI_0487,Laura Laurent,25,Employé,6614.02,2021-12-14,51,138.01,Standard
+CLI_0488,Marie Lefebvre,36,Retraité,9663.66,2024-01-20,25,272.71,Standard
+CLI_0489,Alice Dubois,71,Employé,2412.67,2025-09-14,5,297.18,Standard
+CLI_0490,Luc Bernard,66,Employé,7503.36,2022-07-07,44,125.04,Standard
+CLI_0491,Camille Martin,43,Employé,3099.35,2021-05-12,58,114.29,Standard
+CLI_0492,David Robert,50,Employé,9889.01,2022-04-03,47,104.39,Standard
+CLI_0493,Camille Simon,36,Employé,13452.65,2021-07-22,56,171.42,Standard
+CLI_0494,David Petit,32,Cadre,44731.17,2022-08-27,42,126.38,Standard
+CLI_0495,Thomas Laurent,43,Retraité,29089.45,2025-07-16,7,277.82,Standard
+CLI_0496,Sophie Bernard,39,Retraité,14759.42,2020-04-17,71,139.08,Standard
+CLI_0497,Camille Laurent,48,Retraité,35615.9,2024-01-18,25,215.46,Standard
+CLI_0498,Alice Simon,26,Employé,13519.21,2024-02-20,24,273.12,Standard
+CLI_0499,Sophie Bernard,72,Employé,4556.5,2025-03-29,11,395.18,Standard
+CLI_0500,Laura Lefebvre,73,Artisan/Commerçant,19223.37,2021-06-15,57,128.91,Standard
+CLI_0501,Luc Michel,53,Profession libérale,30056.37,2020-12-19,63,179.3,Standard
+CLI_0502,Alexandre Moreau,46,Employé,12434.32,2020-09-26,66,171.74,Standard
+CLI_0503,François Bernard,37,Cadre,49875.71,2023-06-20,32,214.71,Standard
+CLI_0504,François Moreau,60,Employé,2390.34,2024-06-18,20,291.21,Standard
+CLI_0505,François Martin,52,Employé,13665.76,2025-05-14,9,200.12,Standard
+CLI_0506,Julie Leroy,31,Employé,10094.2,2025-11-23,3,177.32,Standard
+CLI_0507,Thomas Simon,68,Profession libérale,78136.78,2024-08-09,18,270.79,Standard
+CLI_0508,Julie Bernard,61,Profession libérale,42550.67,2024-08-04,19,187.83,Standard
+CLI_0509,Nicolas Simon,71,Retraité,35116.41,2020-10-29,64,181.64,Standard
+CLI_0510,Julie Martin,54,Étudiant,780.77,2021-05-28,57,187.17,Standard
+CLI_0511,Alice Petit,49,Artisan/Commerçant,10376.14,2023-07-22,31,112.49,Standard
+CLI_0512,Alice Durand,42,Retraité,10144.53,2020-10-30,64,186.02,Standard
+CLI_0513,Marie Petit,69,Fonctionnaire,19605.49,2025-01-17,13,189.66,Standard
+CLI_0514,Julie Simon,64,Cadre,41763.83,2025-03-23,11,277.61,Standard
+CLI_0515,David Michel,25,Cadre,43364.63,2025-10-20,4,306.65,Standard
+CLI_0516,Emma Laurent,22,Cadre,47208.44,2023-11-12,27,285.28,Standard
+CLI_0517,Pierre Petit,40,Retraité,10723.31,2021-06-09,57,82.29,Standard
+CLI_0518,Pierre Laurent,60,Artisan/Commerçant,11483.15,2022-01-15,50,137.22,Standard
+CLI_0519,Nicolas Simon,74,Employé,2923.45,2021-06-12,57,162.53,Standard
+CLI_0520,Luc Moreau,30,Fonctionnaire,7372.69,2024-11-07,15,244.54,Standard
+CLI_0521,François Leroy,49,Cadre,15321.46,2025-08-21,6,323.13,Standard
+CLI_0522,François Durand,40,Fonctionnaire,11505.72,2020-08-14,67,96.13,Standard
+CLI_0523,Emma Petit,72,Employé,5491.31,2021-05-23,58,115.93,Standard
+CLI_0524,Alice Laurent,62,Cadre,9544.01,2025-10-23,4,239.68,Standard
+CLI_0525,Camille Robert,62,Employé,4177.38,2021-09-18,54,176.53,Standard
+CLI_0526,Julie Michel,44,Employé,3914.58,2023-05-30,33,155.75,Standard
+CLI_0527,Sophie Michel,42,Employé,14650.0,2021-11-05,52,105.28,Standard
+CLI_0528,David Bernard,36,Employé,11870.8,2021-10-25,52,194.89,Standard
+CLI_0529,Luc Durand,25,Artisan/Commerçant,24290.75,2023-08-14,30,101.77,Standard
+CLI_0530,Sophie Lefebvre,64,Profession libérale,40781.83,2022-07-12,44,199.74,Standard
+CLI_0531,Emma Moreau,60,Employé,5618.79,2023-11-18,27,235.36,Standard
+CLI_0532,Camille Simon,74,Retraité,33545.38,2025-10-26,4,357.12,Standard
+CLI_0533,Thomas Richard,74,Retraité,18440.13,2023-03-09,36,115.35,Standard
+CLI_0534,Jean Durand,47,Employé,5891.98,2020-11-19,64,81.72,Standard
+CLI_0535,Alice Richard,56,Employé,5022.58,2022-10-23,40,168.54,Standard
+CLI_0536,Pierre Durand,70,Cadre,10835.55,2022-03-15,48,180.1,Standard
+CLI_0537,Sophie Richard,63,Cadre,16540.84,2023-01-29,37,168.86,Standard
+CLI_0538,François Robert,35,Retraité,19370.23,2021-05-27,57,97.14,Standard
+CLI_0539,Julie Robert,43,Cadre,35329.74,2023-05-25,33,250.69,Standard
+CLI_0540,David Moreau,29,Profession libérale,14379.54,2025-12-25,2,342.23,Standard
+CLI_0541,Laura Robert,71,Retraité,14736.22,2021-01-17,62,159.02,Standard
+CLI_0542,Nicolas Martin,49,Cadre,41406.06,2025-08-20,6,341.53,Standard
+CLI_0543,Nicolas Thomas,34,Profession libérale,20284.53,2021-11-21,52,181.51,Standard
+CLI_0544,Marie Thomas,52,Employé,6454.39,2021-09-23,53,153.63,Standard
+CLI_0545,Laura Petit,50,Fonctionnaire,17834.54,2021-12-02,51,90.63,Standard
+CLI_0546,Emma Leroy,39,Employé,4014.03,2023-10-14,28,197.53,Standard
+CLI_0547,François Thomas,28,Artisan/Commerçant,4820.21,2020-06-17,69,89.32,Standard
+CLI_0548,Laura Durand,52,Profession libérale,43917.66,2020-04-26,71,128.91,Standard
+CLI_0549,Alexandre Laurent,46,Cadre,18608.88,2020-11-28,63,128.85,Standard
+CLI_0550,Emma Durand,57,Retraité,26029.07,2020-07-05,68,87.92,Standard
+CLI_0551,François Martin,46,Fonctionnaire,16860.88,2022-12-20,38,121.86,Standard
+CLI_0552,Marie Robert,63,Retraité,12388.75,2022-05-13,46,93.32,Standard
+CLI_0553,Sophie Petit,47,Artisan/Commerçant,15775.38,2024-09-02,18,261.65,Standard
+CLI_0554,Laura Thomas,47,Artisan/Commerçant,14121.19,2020-05-04,70,193.72,Standard
+CLI_0555,Luc Simon,65,Employé,3873.02,2025-08-01,7,168.08,Standard
+CLI_0556,Camille Richard,41,Employé,10111.98,2023-04-01,35,291.02,Standard
+CLI_0557,Emma Leroy,29,Retraité,16756.49,2023-05-22,33,204.52,Standard
+CLI_0558,Nicolas Richard,22,Employé,8341.85,2025-06-01,9,224.89,Standard
+CLI_0559,Thomas Laurent,55,Artisan/Commerçant,4809.99,2022-09-30,41,89.22,Standard
+CLI_0560,Nicolas Richard,50,Fonctionnaire,11353.34,2024-07-21,19,200.12,Standard
+CLI_0561,Julie Laurent,53,Employé,5984.03,2023-05-03,34,258.9,Standard
+CLI_0562,Emma Robert,33,Employé,12690.96,2025-01-31,13,241.42,Standard
+CLI_0563,Luc Robert,29,Étudiant,756.4,2020-10-25,65,86.03,Standard
+CLI_0564,Sophie Bernard,20,Employé,7441.89,2020-09-02,66,88.75,Standard
+CLI_0565,Laura Thomas,39,Artisan/Commerçant,13085.49,2021-10-09,53,128.34,Standard
+CLI_0566,Julie Bernard,48,Employé,11425.08,2024-12-05,15,159.06,Standard
+CLI_0567,Laura Leroy,41,Retraité,26377.2,2024-08-29,18,146.48,Standard
+CLI_0568,François Laurent,42,Cadre,35024.56,2025-06-06,8,220.25,Standard
+CLI_0569,Pierre Thomas,67,Retraité,32865.58,2025-03-17,11,350.87,Standard
+CLI_0570,Sophie Laurent,39,Employé,13208.64,2022-04-15,47,191.51,Standard
+CLI_0571,Emma Robert,45,Profession libérale,31971.28,2023-10-25,28,181.02,Standard
+CLI_0572,Laura Moreau,58,Cadre,29211.02,2021-08-11,55,188.73,Standard
+CLI_0573,François Leroy,41,Retraité,34883.46,2023-07-04,32,164.3,Standard
+CLI_0574,Camille Robert,50,Artisan/Commerçant,24767.92,2023-07-31,31,195.29,Standard
+CLI_0575,Marie Michel,64,Employé,13563.75,2023-11-15,27,145.21,Standard
+CLI_0576,Sophie Robert,71,Cadre,21716.03,2024-06-21,20,228.1,Standard
+CLI_0577,Sophie Richard,30,Cadre,13782.49,2021-06-19,57,197.48,Standard
+CLI_0578,Pierre Robert,69,Retraité,23660.56,2024-02-26,24,220.7,Standard
+CLI_0579,Jean Laurent,45,Retraité,31732.53,2025-10-10,4,239.45,Standard
+CLI_0580,Nicolas Dubois,35,Profession libérale,44479.83,2021-03-10,60,157.74,Standard
+CLI_0581,Luc Martin,43,Employé,8281.35,2023-07-31,31,124.58,Standard
+CLI_0582,Jean Leroy,73,Employé,12897.0,2022-09-17,42,186.64,Standard
+CLI_0583,Luc Laurent,45,Profession libérale,35298.26,2025-03-25,11,275.77,Standard
+CLI_0584,Pierre Simon,38,Employé,13177.33,2021-05-16,58,133.92,Standard
+CLI_0585,Alice Lefebvre,50,Sans emploi,3847.63,2022-12-31,38,150.3,Standard
+CLI_0586,Emma Bernard,35,Cadre,19770.49,2025-01-15,13,224.96,Standard
+CLI_0587,Alice Martin,26,Retraité,22527.68,2022-10-12,41,88.61,Standard
+CLI_0588,Camille Robert,29,Employé,11911.81,2021-07-31,55,161.91,Standard
+CLI_0589,Emma Durand,29,Employé,3638.03,2021-01-31,61,109.03,Standard
+CLI_0590,Emma Richard,30,Retraité,14285.41,2020-07-26,68,165.67,Standard
+CLI_0591,Pierre Martin,29,Retraité,38446.23,2023-04-03,35,264.51,Standard
+CLI_0592,Luc Michel,50,Sans emploi,2228.44,2024-04-22,22,260.79,Standard
+CLI_0593,Emma Bernard,32,Cadre,30547.73,2024-09-08,17,210.5,Standard
+CLI_0594,Alice Bernard,39,Cadre,31069.15,2022-10-13,41,142.42,Standard
+CLI_0595,Thomas Durand,66,Retraité,23667.98,2021-10-16,53,97.15,Standard
+CLI_0596,Marie Moreau,44,Profession libérale,55132.17,2023-09-03,30,255.07,Standard
+CLI_0597,Alexandre Simon,51,Employé,4987.75,2023-07-04,32,154.28,Standard
+CLI_0598,Jean Dubois,31,Cadre,29869.8,2022-02-16,49,139.6,Standard
+CLI_0599,Pierre Lefebvre,32,Cadre,21747.8,2021-10-14,53,114.11,Standard
+CLI_0600,Camille Robert,24,Artisan/Commerçant,17556.68,2025-08-02,7,183.46,Standard
+CLI_0601,Marie Thomas,31,Cadre,11355.06,2025-10-09,4,307.39,Standard
+CLI_0602,Marie Leroy,36,Employé,9421.41,2025-03-27,11,163.58,Standard
+CLI_0603,François Petit,31,Employé,4408.51,2025-08-04,6,337.16,Standard
+CLI_0604,Camille Moreau,27,Employé,5622.36,2023-06-17,32,163.52,Standard
+CLI_0605,François Moreau,28,Cadre,14841.94,2025-07-30,7,150.03,Standard
+CLI_0606,Sophie Lefebvre,43,Profession libérale,22798.64,2020-04-04,71,141.34,Standard
+CLI_0607,Nicolas Petit,33,Cadre,42156.99,2021-01-03,62,85.62,Standard
+CLI_0608,Emma Durand,40,Artisan/Commerçant,9285.57,2024-05-29,21,155.23,Standard
+CLI_0609,Luc Michel,45,Employé,14052.61,2025-09-01,6,326.74,Standard
+CLI_0610,Camille Petit,52,Profession libérale,77894.86,2025-02-15,12,112.54,Standard
+CLI_0611,Luc Moreau,24,Artisan/Commerçant,15567.73,2022-09-13,42,180.72,Standard
+CLI_0612,Camille Martin,59,Retraité,12576.04,2022-05-31,45,80.46,Standard
+CLI_0613,Camille Laurent,50,Profession libérale,36218.38,2023-12-16,26,149.36,Standard
+CLI_0614,Marie Lefebvre,26,Employé,12370.52,2020-07-18,68,168.91,Standard
+CLI_0615,Sophie Simon,65,Employé,6776.08,2020-07-26,68,117.95,Standard
+CLI_0616,Sophie Robert,68,Retraité,10784.55,2023-02-26,36,92.23,Standard
+CLI_0617,Alexandre Bernard,25,Sans emploi,4897.49,2025-07-20,7,240.06,Standard
+CLI_0618,Pierre Thomas,36,Retraité,35043.87,2025-04-11,10,217.6,Standard
+CLI_0619,Pierre Leroy,59,Profession libérale,65714.85,2023-03-16,36,181.13,Standard
+CLI_0620,Marie Dubois,55,Retraité,13603.94,2020-02-03,73,117.6,Standard
+CLI_0621,Jean Petit,32,Employé,10745.94,2021-03-16,60,174.67,Standard
+CLI_0622,Emma Laurent,33,Cadre,14922.69,2024-10-31,16,278.37,Standard
+CLI_0623,Camille Durand,40,Profession libérale,25274.53,2021-07-02,56,132.06,Standard
+CLI_0624,Luc Martin,44,Fonctionnaire,17985.15,2022-12-19,38,189.19,Standard
+CLI_0625,Sophie Robert,50,Cadre,16235.1,2024-02-07,25,175.46,Standard
+CLI_0626,Laura Robert,40,Retraité,16423.92,2024-07-09,19,292.82,Standard
+CLI_0627,Laura Michel,43,Employé,2008.49,2024-02-07,25,117.86,Standard
+CLI_0628,Emma Bernard,55,Profession libérale,70946.83,2020-07-04,68,162.44,Standard
+CLI_0629,Alexandre Thomas,23,Cadre,40666.77,2024-06-28,20,198.76,Standard
+CLI_0630,David Robert,35,Employé,10155.28,2020-07-28,68,126.52,Standard
+CLI_0631,François Lefebvre,53,Étudiant,3876.2,2022-03-08,48,155.93,Standard
+CLI_0632,Alexandre Moreau,66,Employé,3976.63,2024-01-24,25,240.77,Standard
+CLI_0633,Alexandre Lefebvre,45,Retraité,22666.36,2023-03-28,35,100.87,Standard
+CLI_0634,David Thomas,46,Étudiant,2080.49,2020-10-28,64,100.03,Standard
+CLI_0635,Thomas Bernard,28,Fonctionnaire,5500.42,2024-05-01,22,242.61,Standard
+CLI_0636,Nicolas Thomas,43,Employé,8319.7,2025-08-27,6,316.6,Standard
+CLI_0637,Alexandre Dubois,46,Employé,13969.62,2025-01-18,13,293.21,Standard
+CLI_0638,David Robert,35,Cadre,6802.66,2023-02-19,36,171.32,Standard
+CLI_0639,Alice Dubois,36,Sans emploi,3040.23,2021-05-01,58,194.09,Standard
+CLI_0640,Marie Martin,40,Fonctionnaire,7320.65,2021-06-11,57,164.3,Standard
+CLI_0641,Pierre Lefebvre,21,Profession libérale,26670.27,2021-01-31,61,115.77,Standard
+CLI_0642,Luc Moreau,38,Artisan/Commerçant,22985.56,2024-06-01,21,121.07,Standard
+CLI_0643,Laura Michel,33,Profession libérale,42764.83,2024-03-08,24,256.36,Standard
+CLI_0644,Camille Robert,38,Retraité,22921.58,2023-10-20,28,228.83,Standard
+CLI_0645,Emma Bernard,28,Cadre,39225.9,2024-02-06,25,109.64,Standard
+CLI_0646,Emma Laurent,66,Étudiant,1195.21,2021-08-13,55,123.21,Standard
+CLI_0647,Luc Laurent,49,Cadre,26926.94,2022-03-26,47,194.82,Standard
+CLI_0648,Thomas Robert,52,Artisan/Commerçant,12459.67,2025-09-16,5,275.1,Standard
+CLI_0649,Nicolas Leroy,58,Étudiant,3186.1,2024-07-02,20,186.55,Standard
+CLI_0650,Emma Durand,45,Retraité,39985.85,2025-08-10,6,264.42,Standard
+CLI_0651,Marie Moreau,27,Cadre,39625.2,2020-06-13,69,105.07,Standard
+CLI_0652,Jean Petit,46,Employé,7172.25,2020-07-04,68,124.24,Standard
+CLI_0653,Laura Richard,48,Employé,12758.19,2020-06-08,69,124.38,Standard
+CLI_0654,Camille Robert,55,Employé,4219.21,2021-07-15,56,86.28,Standard
+CLI_0655,Jean Bernard,42,Cadre,6370.87,2023-09-26,29,253.51,Standard
+CLI_0656,Sophie Simon,29,Fonctionnaire,7271.17,2025-04-24,10,254.13,Standard
+CLI_0657,Alice Michel,36,Profession libérale,33828.81,2025-10-28,4,355.54,Standard
+CLI_0658,Camille Moreau,40,Employé,8637.55,2025-02-14,12,270.07,Standard
+CLI_0659,Jean Lefebvre,51,Employé,9996.68,2021-09-02,54,105.44,Standard
+CLI_0660,Alexandre Michel,48,Employé,13837.87,2025-10-12,4,314.34,Standard
+CLI_0661,Luc Moreau,39,Retraité,24315.33,2021-07-26,55,136.67,Standard
+CLI_0662,Jean Lefebvre,73,Profession libérale,45089.3,2023-09-05,30,276.03,Standard
+CLI_0663,François Dubois,49,Fonctionnaire,4803.89,2023-07-28,31,143.15,Standard
+CLI_0664,Emma Leroy,35,Employé,2453.85,2021-10-27,52,161.34,Standard
+CLI_0665,Alexandre Durand,27,Sans emploi,4858.12,2024-05-28,21,221.55,Standard
+CLI_0666,David Robert,30,Artisan/Commerçant,12639.93,2023-05-10,34,159.06,Standard
+CLI_0667,Pierre Moreau,35,Employé,12909.35,2023-10-09,29,127.32,Standard
+CLI_0668,Thomas Simon,31,Fonctionnaire,6570.87,2025-09-08,5,312.91,Standard
+CLI_0669,Alice Durand,32,Cadre,6123.72,2025-09-18,5,334.65,Standard
+CLI_0670,Marie Durand,36,Artisan/Commerçant,12878.85,2025-12-20,2,228.91,Standard
+CLI_0671,Julie Petit,31,Employé,5087.22,2025-06-29,8,311.21,Standard
+CLI_0672,Julie Richard,66,Artisan/Commerçant,4091.52,2023-05-12,34,179.03,Standard
+CLI_0673,Alexandre Bernard,26,Artisan/Commerçant,18941.16,2025-04-29,10,328.3,Standard
+CLI_0674,Alice Dubois,46,Artisan/Commerçant,5455.05,2020-03-09,72,103.91,Standard
+CLI_0675,Julie Petit,41,Étudiant,3237.44,2024-02-17,24,278.04,Standard
+CLI_0676,Laura Durand,73,Employé,5653.65,2023-09-18,29,157.48,Standard
+CLI_0677,Luc Simon,28,Cadre,12807.32,2021-03-24,60,124.13,Standard
+CLI_0678,Thomas Michel,41,Employé,6936.77,2024-09-02,18,111.62,Standard
+CLI_0679,François Leroy,72,Cadre,41065.06,2023-06-14,33,122.3,Standard
+CLI_0680,Jean Durand,64,Retraité,20546.99,2020-04-19,71,141.9,Standard
+CLI_0681,Marie Richard,60,Employé,11760.01,2025-04-27,10,216.9,Standard
+CLI_0682,Luc Richard,35,Fonctionnaire,6007.78,2022-12-23,38,180.26,Standard
+CLI_0683,Marie Lefebvre,31,Retraité,32728.69,2022-07-21,43,81.76,Standard
+CLI_0684,Thomas Michel,51,Artisan/Commerçant,8212.53,2020-07-29,68,125.49,Standard
+CLI_0685,Nicolas Michel,69,Cadre,35482.69,2025-05-21,9,234.34,Standard
+CLI_0686,Jean Simon,47,Artisan/Commerçant,15447.19,2021-11-29,51,82.32,Standard
+CLI_0687,Alice Leroy,48,Fonctionnaire,18866.32,2025-11-17,3,181.09,Standard
+CLI_0688,Emma Petit,36,Employé,7035.19,2024-04-06,23,182.73,Standard
+CLI_0689,Jean Thomas,56,Retraité,10117.29,2021-08-28,54,139.14,Standard
+CLI_0690,Nicolas Richard,32,Étudiant,586.2,2022-09-19,41,128.51,Standard
+CLI_0691,Camille Lefebvre,38,Cadre,42208.64,2020-05-09,70,143.71,Standard
+CLI_0692,Emma Simon,42,Profession libérale,46731.49,2021-03-26,60,151.42,Standard
+CLI_0693,Emma Lefebvre,45,Employé,12078.17,2022-02-20,48,81.19,Standard
+CLI_0694,Jean Thomas,35,Cadre,15549.15,2020-03-18,72,135.69,Standard
+CLI_0695,Luc Leroy,28,Employé,6486.09,2024-12-11,14,292.7,Standard
+CLI_0696,Pierre Robert,49,Cadre,6354.67,2023-07-08,32,203.81,Standard
+CLI_0697,Emma Laurent,37,Cadre,48267.15,2024-09-11,17,235.51,Standard
+CLI_0698,Emma Bernard,48,Cadre,35054.06,2021-09-12,54,117.42,Standard
+CLI_0699,Jean Simon,30,Fonctionnaire,18931.28,2024-08-18,18,254.8,Standard
+CLI_0700,Camille Lefebvre,44,Profession libérale,28584.75,2022-04-15,47,172.75,Standard
+CLI_0701,Sophie Laurent,46,Fonctionnaire,13783.42,2024-08-07,19,204.26,Standard
+CLI_0702,Pierre Robert,25,Employé,10820.5,2025-08-17,6,394.0,Standard
+CLI_0703,Nicolas Martin,38,Employé,6128.15,2025-04-15,10,181.39,Standard
+CLI_0704,Nicolas Petit,29,Profession libérale,69367.65,2020-09-12,66,82.03,Standard
+CLI_0705,Marie Thomas,25,Employé,14313.1,2021-07-19,56,172.42,Standard
+CLI_0706,Alice Bernard,74,Cadre,44818.48,2025-10-25,4,351.79,Standard
+CLI_0707,Emma Bernard,38,Retraité,31650.14,2022-04-29,46,94.42,Standard
+CLI_0708,Alexandre Michel,60,Employé,5607.04,2023-08-24,30,153.12,Standard
+CLI_0709,Pierre Durand,35,Retraité,17011.71,2025-05-13,9,154.39,Standard
+CLI_0710,David Laurent,52,Retraité,38827.53,2025-11-22,3,223.33,Standard
+CLI_0711,Luc Leroy,56,Cadre,5462.8,2024-03-23,23,254.63,Standard
+CLI_0712,Laura Robert,49,Cadre,37222.25,2023-07-09,32,203.59,Standard
+CLI_0713,Thomas Michel,44,Étudiant,3678.11,2021-12-10,51,121.77,Standard
+CLI_0714,Emma Durand,41,Employé,10094.96,2025-02-25,12,174.35,Standard
+CLI_0715,Sophie Durand,39,Cadre,49554.9,2025-12-23,2,150.34,Standard
+CLI_0716,Nicolas Dubois,69,Sans emploi,3183.16,2023-11-03,28,159.96,Standard
+CLI_0717,Thomas Thomas,61,Cadre,20298.73,2023-12-22,26,229.29,Standard
+CLI_0718,David Moreau,72,Retraité,10526.06,2022-12-18,38,196.9,Standard
+CLI_0719,Nicolas Laurent,29,Sans emploi,4099.59,2025-06-06,8,361.77,Standard
+CLI_0720,David Dubois,54,Employé,5393.63,2022-02-26,48,82.83,Standard
+CLI_0721,Alice Bernard,70,Cadre,20452.4,2022-10-06,41,187.83,Standard
+CLI_0722,Luc Lefebvre,32,Cadre,42555.73,2023-02-16,36,173.98,Standard
+CLI_0723,François Michel,26,Employé,14161.3,2023-05-07,34,256.08,Standard
+CLI_0724,Thomas Richard,54,Cadre,13357.99,2022-07-10,44,134.96,Standard
+CLI_0725,David Lefebvre,48,Retraité,19920.29,2023-05-04,34,179.6,Standard
+CLI_0726,Nicolas Robert,62,Cadre,46788.38,2023-03-29,35,160.58,Standard
+CLI_0727,Alice Martin,29,Profession libérale,14326.59,2022-04-29,46,87.88,Standard
+CLI_0728,Luc Laurent,58,Sans emploi,1646.52,2025-06-25,8,207.06,Standard
+CLI_0729,Luc Michel,33,Artisan/Commerçant,6581.4,2023-07-22,31,149.32,Standard
+CLI_0730,Camille Moreau,31,Retraité,27046.81,2025-05-19,9,271.02,Standard
+CLI_0731,Alexandre Durand,31,Employé,3956.14,2023-11-29,27,249.49,Standard
+CLI_0732,Alice Dubois,60,Retraité,38978.44,2023-01-25,37,136.86,Standard
+CLI_0733,Emma Leroy,51,Profession libérale,41270.02,2023-03-24,35,111.57,Standard
+CLI_0734,Emma Richard,46,Employé,8519.73,2021-05-14,58,194.93,Standard
+CLI_0735,Julie Leroy,39,Cadre,16099.64,2024-04-04,23,288.54,Standard
+CLI_0736,François Leroy,65,Artisan/Commerçant,13361.13,2024-06-04,21,257.04,Standard
+CLI_0737,Thomas Durand,41,Employé,10604.88,2023-11-14,27,298.27,Standard
+CLI_0738,David Richard,60,Cadre,38802.97,2021-08-22,55,145.34,Standard
+CLI_0739,Alice Thomas,42,Employé,11800.29,2023-04-04,35,292.55,Standard
+CLI_0740,Laura Thomas,40,Employé,9512.58,2020-06-21,69,89.07,Standard
+CLI_0741,Camille Petit,43,Artisan/Commerçant,22895.92,2023-03-24,35,173.14,Standard
+CLI_0742,Sophie Michel,37,Retraité,34157.05,2020-11-19,64,107.05,Standard
+CLI_0743,François Petit,55,Étudiant,3906.72,2023-11-19,27,139.17,Standard
+CLI_0744,Jean Richard,45,Cadre,7502.25,2024-12-16,14,128.16,Standard
+CLI_0745,Laura Durand,34,Employé,2089.41,2022-11-16,40,154.69,Standard
+CLI_0746,Laura Lefebvre,67,Employé,4761.81,2025-05-16,9,345.33,Standard
+CLI_0747,Thomas Petit,40,Cadre,34858.56,2022-05-26,45,149.4,Standard
+CLI_0748,Alexandre Lefebvre,47,Employé,7345.57,2022-04-07,47,97.64,Standard
+CLI_0749,Alice Simon,67,Étudiant,2310.83,2023-01-15,38,177.33,Standard
+CLI_0750,Pierre Durand,50,Cadre,44806.41,2023-01-17,37,156.31,Standard
+CLI_0751,Jean Dubois,28,Profession libérale,72689.4,2021-07-16,56,126.58,Standard
+CLI_0752,Nicolas Moreau,70,Employé,13819.28,2021-03-23,60,160.9,Standard
+CLI_0753,Julie Michel,50,Cadre,19124.51,2022-09-07,42,111.19,Standard
+CLI_0754,Marie Michel,38,Employé,10983.73,2022-09-20,41,121.42,Standard
+CLI_0755,Alice Durand,29,Fonctionnaire,8346.13,2020-07-26,68,190.1,Standard
+CLI_0756,Marie Leroy,58,Artisan/Commerçant,7193.42,2025-12-15,2,222.63,Standard
+CLI_0757,David Durand,50,Fonctionnaire,6954.12,2022-07-13,44,136.4,Standard
+CLI_0758,Jean Laurent,46,Employé,6447.4,2022-08-11,43,186.82,Standard
+CLI_0759,Pierre Petit,66,Cadre,24348.09,2020-08-03,67,164.93,Standard
+CLI_0760,Alice Simon,58,Profession libérale,68166.44,2021-02-14,61,87.46,Standard
+CLI_0761,Pierre Bernard,30,Employé,3558.58,2024-08-19,18,129.46,Standard
+CLI_0762,Emma Lefebvre,37,Artisan/Commerçant,19168.37,2023-09-14,29,101.57,Standard
+CLI_0763,Luc Richard,35,Cadre,28915.47,2025-04-18,10,307.73,Standard
+CLI_0764,Camille Laurent,54,Employé,5743.29,2021-02-15,61,133.72,Standard
+CLI_0765,Thomas Simon,23,Cadre,27176.88,2021-07-17,56,96.11,Standard
+CLI_0766,Marie Michel,48,Employé,5899.25,2020-01-22,74,194.95,Standard
+CLI_0767,Julie Michel,56,Retraité,27074.62,2021-10-08,53,143.56,Standard
+CLI_0768,Alexandre Michel,65,Employé,7639.97,2024-07-24,19,148.38,Standard
+CLI_0769,Nicolas Petit,39,Employé,4137.27,2025-05-02,10,275.15,Standard
+CLI_0770,Julie Simon,60,Employé,3515.58,2025-05-09,9,319.91,Standard
+CLI_0771,Laura Lefebvre,28,Employé,9107.04,2022-03-27,47,89.15,Standard
+CLI_0772,Emma Michel,62,Étudiant,4560.86,2023-03-22,35,154.94,Standard
+CLI_0773,Nicolas Martin,29,Artisan/Commerçant,10567.07,2023-08-08,31,261.39,Standard
+CLI_0774,Camille Bernard,41,Fonctionnaire,15728.0,2023-03-15,36,135.16,Standard
+CLI_0775,Sophie Simon,59,Étudiant,3463.98,2020-08-30,66,145.59,Standard
+CLI_0776,Alexandre Robert,30,Employé,14110.21,2021-01-01,62,131.94,Standard
+CLI_0777,Sophie Laurent,34,Retraité,34271.39,2022-08-09,43,85.27,Standard
+CLI_0778,Marie Petit,54,Employé,9365.87,2025-12-31,1,191.44,Standard
+CLI_0779,Marie Lefebvre,54,Employé,10541.4,2020-06-01,69,133.46,Standard
+CLI_0780,Alexandre Laurent,50,Artisan/Commerçant,22764.5,2021-12-18,51,105.1,Standard
+CLI_0781,Alice Bernard,52,Cadre,22978.35,2024-09-07,17,110.0,Standard
+CLI_0782,Emma Dubois,47,Fonctionnaire,9228.72,2021-12-21,51,181.24,Standard
+CLI_0783,Laura Robert,35,Employé,2140.54,2020-05-28,70,197.74,Standard
+CLI_0784,David Martin,39,Retraité,34449.63,2024-06-14,20,258.63,Standard
+CLI_0785,Jean Richard,32,Retraité,33631.38,2025-07-22,7,363.45,Standard
+CLI_0786,François Martin,67,Artisan/Commerçant,5298.0,2022-02-02,49,109.04,Standard
+CLI_0787,Luc Richard,48,Retraité,26459.44,2023-03-31,35,292.13,Standard
+CLI_0788,Julie Petit,41,Retraité,22847.41,2020-06-02,69,103.63,Standard
+CLI_0789,Pierre Thomas,43,Cadre,10341.91,2020-02-07,73,194.17,Standard
+CLI_0790,Nicolas Petit,70,Profession libérale,78639.78,2023-05-07,34,298.96,Standard
+CLI_0791,Camille Simon,30,Cadre,14661.31,2021-03-15,60,165.41,Standard
+CLI_0792,François Dubois,48,Retraité,10151.49,2023-10-04,29,296.23,Standard
+CLI_0793,Pierre Dubois,45,Profession libérale,51639.32,2023-03-11,36,148.34,Standard
+CLI_0794,Marie Moreau,49,Retraité,31643.73,2025-02-04,12,151.91,Standard
+CLI_0795,Alice Petit,20,Cadre,6459.96,2025-11-17,3,259.25,Standard
+CLI_0796,Camille Simon,64,Cadre,34642.29,2025-07-16,7,298.39,Standard
+CLI_0797,Sophie Durand,69,Retraité,25033.34,2021-07-03,56,88.77,Standard
+CLI_0798,David Moreau,47,Cadre,9646.93,2025-08-27,6,305.59,Standard
+CLI_0799,Pierre Thomas,53,Cadre,12763.57,2025-04-01,11,395.29,Standard
+CLI_0800,Emma Simon,68,Cadre,30558.84,2023-01-22,37,102.81,Standard
+CLI_0801,Luc Durand,53,Fonctionnaire,8741.72,2022-02-28,48,175.11,Standard
+CLI_0802,Luc Simon,30,Retraité,38026.1,2021-04-06,59,188.95,Standard
+CLI_0803,Jean Lefebvre,48,Employé,12643.62,2023-09-16,29,288.74,Standard
+CLI_0804,Emma Robert,49,Employé,14786.37,2021-10-27,52,195.22,Standard
+CLI_0805,Alexandre Leroy,42,Employé,5375.72,2025-02-22,12,204.29,Standard
+CLI_0806,Pierre Bernard,54,Étudiant,4863.76,2022-11-19,39,197.28,Standard
+CLI_0807,Emma Richard,69,Retraité,21799.48,2022-02-01,49,170.88,Standard
+CLI_0808,Camille Robert,69,Cadre,20638.35,2020-02-27,73,99.4,Standard
+CLI_0809,Alexandre Petit,43,Cadre,7265.73,2023-10-12,29,195.38,Standard
+CLI_0810,Laura Robert,28,Cadre,7374.44,2023-04-23,34,243.67,Standard
+CLI_0811,Emma Michel,73,Retraité,30144.36,2022-03-02,48,109.68,Standard
+CLI_0812,Luc Thomas,62,Étudiant,2560.68,2021-12-19,51,156.87,Standard
+CLI_0813,Thomas Michel,29,Employé,4944.78,2024-07-18,19,233.32,Standard
+CLI_0814,Emma Bernard,68,Cadre,32628.66,2024-10-17,16,132.54,Standard
+CLI_0815,Sophie Petit,64,Cadre,16378.62,2025-10-11,4,291.27,Standard
+CLI_0816,Camille Richard,46,Fonctionnaire,13242.11,2023-09-05,30,254.33,Standard
+CLI_0817,Camille Robert,48,Employé,6669.71,2020-12-21,63,139.87,Standard
+CLI_0818,Laura Robert,41,Étudiant,4205.99,2024-06-29,20,102.42,Standard
+CLI_0819,Jean Michel,25,Retraité,34262.28,2021-01-25,62,81.08,Standard
+CLI_0820,Alexandre Petit,38,Employé,8205.56,2022-01-26,49,122.84,Standard
+CLI_0821,Luc Martin,59,Employé,6560.65,2021-07-29,55,191.14,Standard
+CLI_0822,Camille Michel,18,Cadre,21315.19,2025-05-09,9,207.17,Standard
+CLI_0823,Alexandre Lefebvre,38,Retraité,33782.86,2023-08-18,30,226.87,Standard
+CLI_0824,Laura Martin,41,Étudiant,1976.81,2022-10-13,41,106.65,Standard
+CLI_0825,David Moreau,46,Retraité,14689.9,2020-01-28,74,118.6,Standard
+CLI_0826,Laura Durand,68,Profession libérale,15928.18,2022-12-04,39,181.77,Standard
+CLI_0827,Alice Robert,39,Cadre,26001.19,2024-04-20,22,245.77,Standard
+CLI_0828,François Lefebvre,39,Fonctionnaire,11714.11,2022-08-22,42,91.45,Standard
+CLI_0829,Sophie Moreau,54,Étudiant,4284.09,2025-01-03,14,185.74,Standard
+CLI_0830,François Richard,43,Employé,4876.1,2022-12-29,38,83.5,Standard
+CLI_0831,Sophie Simon,34,Fonctionnaire,10095.86,2023-09-12,30,196.18,Standard
+CLI_0832,Sophie Moreau,43,Retraité,33868.98,2023-05-21,33,232.49,Standard
+CLI_0833,Luc Simon,30,Profession libérale,67653.65,2020-02-16,73,94.22,Standard
+CLI_0834,François Laurent,31,Retraité,20307.55,2022-12-07,39,114.67,Standard
+CLI_0835,François Simon,45,Artisan/Commerçant,13100.73,2024-01-12,25,179.57,Standard
+CLI_0836,Alexandre Michel,42,Retraité,17705.15,2022-08-25,42,190.34,Standard
+CLI_0837,Pierre Simon,68,Cadre,46964.97,2020-09-11,66,199.19,Standard
+CLI_0838,Marie Simon,39,Employé,3542.37,2021-04-29,58,85.39,Standard
+CLI_0839,Alexandre Martin,48,Fonctionnaire,18939.99,2025-03-21,11,340.25,Standard
+CLI_0840,Luc Lefebvre,50,Employé,10890.26,2023-06-10,33,174.34,Standard
+CLI_0841,Emma Martin,20,Employé,8910.44,2021-10-16,53,127.09,Standard
+CLI_0842,Camille Richard,51,Employé,2424.57,2024-07-18,19,250.85,Standard
+CLI_0843,Laura Dubois,31,Employé,8182.75,2025-08-20,6,379.61,Standard
+CLI_0844,Marie Robert,71,Retraité,21047.94,2023-06-27,32,290.19,Standard
+CLI_0845,Julie Laurent,30,Fonctionnaire,6579.5,2021-04-25,59,149.25,Standard
+CLI_0846,Thomas Dubois,42,Employé,10533.32,2023-04-23,34,171.42,Standard
+CLI_0847,Sophie Dubois,27,Cadre,48701.79,2024-02-14,24,257.51,Standard
+CLI_0848,François Leroy,74,Cadre,30298.5,2022-06-23,44,110.12,Standard
+CLI_0849,David Richard,45,Artisan/Commerçant,18724.57,2022-06-16,45,147.69,Standard
+CLI_0850,Nicolas Leroy,49,Retraité,10190.41,2021-07-01,56,123.03,Standard
+CLI_0851,David Robert,26,Employé,7429.67,2025-05-12,9,314.16,Standard
+CLI_0852,Alice Dubois,55,Artisan/Commerçant,5559.89,2021-09-19,54,108.85,Standard
+CLI_0853,Luc Michel,33,Artisan/Commerçant,16481.51,2025-02-06,12,138.32,Standard
+CLI_0854,Emma Lefebvre,66,Artisan/Commerçant,23646.61,2024-03-10,24,283.65,Standard
+CLI_0855,Luc Laurent,33,Fonctionnaire,14588.44,2024-08-30,18,120.36,Standard
+CLI_0856,Alice Richard,32,Employé,2998.44,2025-04-12,10,276.49,Standard
+CLI_0857,François Bernard,23,Étudiant,2096.0,2022-06-13,45,106.5,Standard
+CLI_0858,Emma Bernard,44,Employé,9158.62,2022-10-10,41,84.67,Standard
+CLI_0859,Pierre Lefebvre,47,Artisan/Commerçant,11870.57,2020-12-01,63,84.32,Standard
+CLI_0860,Sophie Michel,26,Retraité,34676.61,2025-11-22,3,193.81,Standard
+CLI_0861,Alexandre Laurent,57,Étudiant,4166.02,2025-01-03,14,273.35,Standard
+CLI_0862,Alexandre Petit,43,Retraité,27578.59,2025-12-03,2,220.62,Standard
+CLI_0863,Alice Lefebvre,46,Cadre,21805.61,2024-01-21,25,290.09,Standard
+CLI_0864,Nicolas Richard,43,Profession libérale,27873.55,2020-11-15,64,149.79,Standard
+CLI_0865,Marie Lefebvre,41,Sans emploi,1741.12,2021-04-04,59,132.39,Standard
+CLI_0866,Thomas Martin,47,Fonctionnaire,9678.36,2020-09-09,66,149.61,Standard
+CLI_0867,Luc Leroy,30,Cadre,23592.76,2025-09-01,6,279.17,Standard
+CLI_0868,Marie Durand,32,Cadre,35412.03,2022-04-08,47,171.05,Standard
+CLI_0869,Julie Simon,64,Cadre,34617.19,2021-09-05,54,113.9,Standard
+CLI_0870,Laura Simon,70,Retraité,10243.46,2021-11-04,52,122.37,Standard
+CLI_0871,Luc Moreau,40,Artisan/Commerçant,11695.7,2023-09-05,30,278.82,Standard
+CLI_0872,Thomas Michel,36,Employé,4363.13,2025-11-01,3,386.61,Standard
+CLI_0873,Alexandre Richard,51,Profession libérale,20976.89,2024-12-14,14,278.51,Standard
+CLI_0874,Marie Simon,41,Artisan/Commerçant,21200.65,2021-04-21,59,130.33,Standard
+CLI_0875,Sophie Durand,21,Retraité,9341.29,2022-04-21,46,173.64,Standard
+CLI_0876,Jean Moreau,30,Profession libérale,39342.8,2025-06-25,8,269.08,Standard
+CLI_0877,David Leroy,53,Profession libérale,21774.26,2021-01-07,62,139.7,Standard
+CLI_0878,Julie Moreau,51,Profession libérale,71553.12,2025-09-21,5,201.17,Standard
+CLI_0879,Sophie Simon,22,Employé,9241.53,2024-12-29,14,218.23,Standard
+CLI_0880,Marie Simon,34,Profession libérale,26196.64,2020-08-15,67,102.34,Standard
+CLI_0881,Alice Durand,34,Retraité,24077.67,2025-01-31,13,166.31,Standard
+CLI_0882,David Laurent,52,Artisan/Commerçant,19092.7,2021-06-24,57,182.6,Standard
+CLI_0883,Luc Simon,21,Retraité,38659.78,2025-10-03,4,201.77,Standard
+CLI_0884,Thomas Bernard,28,Étudiant,1492.01,2024-08-28,18,114.23,Standard
+CLI_0885,Pierre Martin,59,Cadre,44878.18,2025-02-14,12,113.8,Standard
+CLI_0886,Jean Robert,32,Employé,14145.95,2020-08-24,67,192.89,Standard
+CLI_0887,Emma Bernard,51,Cadre,46238.92,2025-03-08,11,276.73,Standard
+CLI_0888,Marie Thomas,35,Employé,10260.39,2023-06-16,32,181.88,Standard
+CLI_0889,David Leroy,27,Retraité,28154.26,2020-03-30,72,177.31,Standard
+CLI_0890,Pierre Petit,35,Sans emploi,3822.47,2024-06-09,20,267.17,Standard
+CLI_0891,Emma Richard,54,Cadre,38857.9,2022-11-08,40,119.86,Standard
+CLI_0892,Alexandre Laurent,63,Employé,8906.82,2020-01-13,74,163.23,Standard
+CLI_0893,Laura Leroy,61,Artisan/Commerçant,17903.64,2022-06-11,45,172.53,Standard
+CLI_0894,Thomas Moreau,41,Employé,7569.95,2020-10-26,65,158.56,Standard
+CLI_0895,Laura Laurent,51,Profession libérale,61204.75,2020-07-04,68,98.19,Standard
+CLI_0896,Pierre Petit,33,Retraité,34383.09,2024-10-01,17,275.18,Standard
+CLI_0897,Alexandre Bernard,37,Retraité,12685.96,2023-11-12,27,207.82,Standard
+CLI_0898,Alice Durand,66,Cadre,42481.84,2020-09-18,66,113.9,Standard
+CLI_0899,Camille Petit,20,Employé,9023.85,2020-09-03,66,131.03,Standard
+CLI_0900,Luc Martin,27,Étudiant,4301.0,2020-10-09,65,84.51,Standard
+CLI_0901,Laura Richard,33,Profession libérale,40191.12,2025-04-17,10,181.97,Standard
+CLI_0902,Sophie Durand,22,Cadre,22056.82,2020-05-09,70,171.87,Standard
+CLI_0903,Emma Thomas,32,Étudiant,4617.77,2023-03-21,35,100.0,Standard
+CLI_0904,Alice Richard,48,Cadre,16302.62,2024-08-01,19,183.31,Standard
+CLI_0905,Marie Simon,42,Retraité,35014.79,2022-01-07,50,142.7,Standard
+CLI_0906,Julie Leroy,66,Employé,8292.27,2021-07-08,56,86.56,Standard
+CLI_0907,David Simon,60,Fonctionnaire,12225.53,2024-09-17,17,294.62,Standard
+CLI_0908,Julie Martin,39,Employé,6010.09,2024-03-13,23,145.23,Standard
+CLI_0909,Thomas Robert,35,Employé,9449.55,2024-04-15,22,160.84,Standard
+CLI_0910,Sophie Bernard,40,Cadre,19634.5,2025-01-11,13,160.79,Standard
+CLI_0911,Alice Michel,48,Employé,2510.5,2024-03-26,23,146.08,Standard
+CLI_0912,Emma Bernard,36,Artisan/Commerçant,8983.97,2024-03-18,23,100.29,Standard
+CLI_0913,Alexandre Thomas,50,Sans emploi,1044.65,2020-11-24,64,167.52,Standard
+CLI_0914,Alexandre Simon,41,Employé,14718.61,2021-06-28,56,196.02,Standard
+CLI_0915,Camille Martin,47,Employé,14554.71,2023-11-25,27,144.86,Standard
+CLI_0916,Jean Lefebvre,42,Retraité,20644.97,2021-04-30,58,159.57,Standard
+CLI_0917,Julie Thomas,37,Artisan/Commerçant,19024.16,2022-01-01,50,169.03,Standard
+CLI_0918,Pierre Lefebvre,70,Profession libérale,34206.43,2024-05-28,21,269.69,Standard
+CLI_0919,Camille Thomas,56,Employé,10724.21,2025-12-06,2,255.66,Standard
+CLI_0920,Marie Michel,29,Employé,12470.59,2021-06-05,57,116.35,Standard
+CLI_0921,François Leroy,64,Retraité,38296.2,2022-07-01,44,119.04,Standard
+CLI_0922,Sophie Moreau,44,Cadre,23009.55,2020-01-15,74,165.51,Standard
+CLI_0923,Sophie Michel,66,Retraité,33065.54,2020-04-03,71,178.01,Standard
+CLI_0924,Alice Thomas,59,Employé,5457.07,2023-05-07,34,136.32,Standard
+CLI_0925,Julie Lefebvre,42,Étudiant,4956.5,2025-03-11,11,242.74,Standard
+CLI_0926,Pierre Lefebvre,21,Cadre,6159.63,2024-10-03,17,280.39,Standard
+CLI_0927,David Moreau,36,Profession libérale,52247.02,2025-12-18,2,351.67,Standard
+CLI_0928,Jean Robert,47,Employé,10573.58,2024-04-02,23,296.97,Standard
+CLI_0929,Alice Dubois,50,Retraité,30017.46,2022-07-29,43,170.51,Standard
+CLI_0930,Pierre Leroy,35,Cadre,10417.44,2022-10-10,41,127.18,Standard
+CLI_0931,Luc Lefebvre,29,Profession libérale,75697.08,2025-03-01,12,218.13,Standard
+CLI_0932,Pierre Bernard,62,Profession libérale,22682.83,2023-11-18,27,232.2,Standard
+CLI_0933,Alexandre Michel,73,Profession libérale,53592.74,2021-09-27,53,89.41,Standard
+CLI_0934,Jean Dubois,46,Retraité,15125.63,2023-02-03,37,145.34,Standard
+CLI_0935,Jean Richard,31,Retraité,17830.93,2022-02-11,49,165.12,Standard
+CLI_0936,François Lefebvre,36,Artisan/Commerçant,15022.09,2021-04-07,59,100.08,Standard
+CLI_0937,Sophie Moreau,20,Employé,7423.51,2020-05-11,70,173.68,Standard
+CLI_0938,Julie Martin,68,Artisan/Commerçant,6524.96,2024-09-13,17,216.75,Standard
+CLI_0939,Pierre Robert,28,Employé,4222.17,2020-03-05,72,194.27,Standard
+CLI_0940,Jean Dubois,48,Cadre,23816.52,2022-09-12,42,85.09,Standard
+CLI_0941,Laura Petit,36,Cadre,39077.73,2022-04-24,46,111.84,Standard
+CLI_0942,Nicolas Bernard,47,Employé,13673.54,2020-10-02,65,152.19,Standard
+CLI_0943,Laura Bernard,51,Étudiant,878.57,2021-02-17,61,115.59,Standard
+CLI_0944,Emma Durand,61,Retraité,20579.33,2020-05-17,70,165.73,Standard
+CLI_0945,François Richard,33,Étudiant,951.11,2025-01-02,14,251.8,Standard
+CLI_0946,Nicolas Moreau,19,Profession libérale,11161.47,2020-07-18,68,92.3,Standard
+CLI_0947,Marie Durand,29,Employé,10602.34,2022-09-29,41,141.66,Standard
+CLI_0948,Nicolas Thomas,67,Cadre,32110.22,2020-06-30,68,141.07,Standard
+CLI_0949,Camille Martin,65,Employé,4119.25,2024-07-05,20,173.86,Standard
+CLI_0950,Laura Lefebvre,49,Employé,5039.57,2024-12-02,15,286.58,Standard
+CLI_0951,David Michel,49,Cadre,6066.85,2022-08-17,43,179.3,Standard
+CLI_0952,Alexandre Leroy,51,Employé,12854.31,2022-06-08,45,163.67,Standard
+CLI_0953,Luc Durand,31,Profession libérale,78228.34,2020-08-19,67,165.72,Standard
+CLI_0954,Alexandre Martin,68,Retraité,12334.71,2021-07-27,55,135.41,Standard
+CLI_0955,Jean Durand,42,Sans emploi,2620.33,2025-08-25,6,380.25,Standard
+CLI_0956,Alice Petit,40,Fonctionnaire,17894.55,2023-03-30,35,238.92,Standard
+CLI_0957,Thomas Simon,46,Retraité,37646.84,2022-08-17,43,167.48,Standard
+CLI_0958,Marie Durand,25,Employé,7455.16,2023-07-30,31,272.34,Standard
+CLI_0959,Laura Durand,31,Retraité,9619.92,2023-08-06,31,154.81,Standard
+CLI_0960,Marie Bernard,54,Étudiant,677.26,2022-08-28,42,176.85,Standard
+CLI_0961,Julie Moreau,26,Cadre,30827.74,2023-05-21,33,139.05,Standard
+CLI_0962,Pierre Bernard,49,Employé,7107.64,2021-08-09,55,121.44,Standard
+CLI_0963,Pierre Robert,35,Artisan/Commerçant,3630.35,2025-11-05,3,233.9,Standard
+CLI_0964,Camille Simon,41,Employé,9582.28,2022-06-24,44,197.42,Standard
+CLI_0965,Camille Leroy,37,Profession libérale,10791.18,2024-08-20,18,271.31,Standard
+CLI_0966,Laura Richard,39,Profession libérale,65116.04,2023-05-15,34,240.23,Standard
+CLI_0967,Thomas Moreau,53,Cadre,18789.48,2023-02-01,37,167.25,Standard
+CLI_0968,Nicolas Robert,37,Employé,2523.35,2020-09-06,66,147.45,Standard
+CLI_0969,Emma Leroy,47,Employé,9648.58,2021-12-18,51,193.65,Standard
+CLI_0970,Camille Petit,44,Cadre,22895.8,2024-10-15,16,199.25,Standard
+CLI_0971,Marie Lefebvre,51,Cadre,48821.02,2025-07-23,7,245.13,Standard
+CLI_0972,Laura Bernard,70,Artisan/Commerçant,14972.37,2020-07-11,68,99.56,Standard
+CLI_0973,Alice Simon,54,Employé,5578.11,2023-11-11,28,257.24,Standard
+CLI_0974,Alexandre Lefebvre,33,Profession libérale,59660.72,2024-04-10,22,246.89,Standard
+CLI_0975,Nicolas Laurent,22,Employé,5529.4,2025-11-18,3,246.09,Standard
+CLI_0976,Alice Thomas,36,Fonctionnaire,18467.89,2023-07-29,31,105.04,Standard
+CLI_0977,Thomas Durand,49,Employé,6871.39,2024-09-01,18,267.8,Standard
+CLI_0978,David Thomas,25,Employé,9148.29,2024-07-30,19,102.28,Standard
+CLI_0979,Thomas Richard,45,Artisan/Commerçant,4112.61,2021-09-03,54,164.44,Standard
+CLI_0980,Alice Durand,49,Artisan/Commerçant,12374.67,2023-05-13,34,294.05,Standard
+CLI_0981,Thomas Petit,38,Cadre,42456.36,2024-03-21,23,187.53,Standard
+CLI_0982,Laura Bernard,57,Artisan/Commerçant,20724.27,2022-01-23,49,108.2,Standard
+CLI_0983,Julie Petit,28,Employé,4916.14,2025-04-23,10,326.22,Standard
+CLI_0984,Julie Simon,26,Employé,4939.03,2022-09-14,42,178.06,Standard
+CLI_0985,Luc Richard,54,Cadre,41778.74,2022-07-12,44,145.57,Standard
+CLI_0986,Pierre Simon,45,Cadre,46867.93,2023-05-16,33,293.41,Standard
+CLI_0987,David Durand,52,Retraité,11051.55,2021-08-14,55,86.2,Standard
+CLI_0988,Marie Bernard,42,Employé,7850.76,2025-03-11,11,276.2,Standard
+CLI_0989,Alice Bernard,35,Employé,6386.91,2020-08-24,67,166.21,Standard
+CLI_0990,Marie Petit,60,Retraité,35862.03,2024-08-17,18,272.53,Standard
+CLI_0991,Marie Laurent,59,Étudiant,875.86,2024-09-02,18,135.85,Standard
+CLI_0992,Laura Richard,53,Cadre,14500.67,2025-12-10,2,350.0,Standard
+CLI_0993,François Dubois,36,Retraité,32078.99,2021-07-03,56,146.32,Standard
+CLI_0994,Nicolas Martin,48,Cadre,7308.22,2024-05-09,22,179.31,Standard
+CLI_0995,Camille Leroy,39,Étudiant,2716.41,2022-09-21,41,95.81,Standard
+CLI_0996,Nicolas Richard,27,Retraité,22147.43,2022-11-10,40,183.84,Standard
+CLI_0997,Alexandre Bernard,68,Fonctionnaire,9350.42,2022-04-12,47,98.87,Standard
+CLI_0998,Thomas Richard,29,Cadre,22755.75,2023-09-14,29,161.96,Standard
+CLI_0999,Alice Simon,71,Cadre,28847.33,2020-11-19,64,114.81,Standard
+CLI_1000,François Petit,43,Employé,4097.78,2025-01-16,13,274.28,Standard

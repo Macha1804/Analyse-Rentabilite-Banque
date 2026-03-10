@@ -5,9 +5,7 @@ Contexte du Projet:
 La rentabilité d'une banque dépend de la rentabilité de ces clients.
 Nous avons ici une banque de 1000 clients.
 
-Problématique : il s'agira ici de segmenter les clients des banques des plus rentables au moins rentables.
-Puis dans un second temps, il faudra trouver des leviers d'optimisation du profit toujours dans le but
-d'améliorer le profit de la banque.
+Problématique : Dans cet établissement bancaire de 1000 clients, le but de cette analyse sera de trouver les leviers d'optimisation de rentabilité de la banque.
 
 ---
 
@@ -102,6 +100,6 @@ Requêtes SQL - Common Table Expressions (CTEs)
 
 À Propos
 
-Renée Michèle
+Renée Michèle Niangoran
 Data Analyst
 10 ans d'expérience dans le domaine financier

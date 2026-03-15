@@ -3,15 +3,15 @@
 -- 6 Requêtes SQL Essentielles
 -- ========================================
 
--- Q1 : Profit total de la banque
+-- Profit total de la banque
 SELECT SUM(profit_net) AS profit_total
 FROM recap_rentabilite;
 
--- Q2 : Profit moyen par client
+-- Profit moyen par client
 SELECT AVG(profit_net) AS profit_moyen
 FROM recap_rentabilite;
 
--- Q3 : Répartition des clients par segment
+-- Répartition des clients par segment
 SELECT
     segment_calcule,
     COUNT(*) AS nb_clients,
@@ -20,7 +20,7 @@ FROM recap_rentabilite
 GROUP BY segment_calcule
 ORDER BY nb_clients DESC;
 
--- Q4 : Top 20 clients les plus rentables
+-- Top 20 clients les plus rentables
 SELECT
     nom_complet,
     emploi,
@@ -30,7 +30,7 @@ FROM recap_rentabilite
 ORDER BY profit_net DESC
 LIMIT 20;
 
--- Q5 : Bottom 20 clients les moins rentables
+-- Bottom 20 clients les moins rentables
 SELECT
     nom_complet,
     emploi,
@@ -40,7 +40,7 @@ FROM recap_rentabilite
 ORDER BY profit_net ASC
 LIMIT 20;
 
--- Q6 : Principe de Pareto - Les 20% clients les plus rentables
+-- Principe de Pareto - Les 20% clients les plus rentables
 WITH top_200 AS (
     SELECT SUM(profit_net) AS profit_top
     FROM (
@@ -60,7 +60,7 @@ SELECT
     ROUND((top_200.profit_top / total.profit_total) * 100, 1) AS pourcentage
 FROM top_200, total;
 
--- Q7 : Produits les plus rentables
+-- Produits les plus rentables
 SELECT produit,
        SUM(profit_annuel) AS sum_profit,
        COUNT(client_id) AS nombre_de_client,
@@ -69,14 +69,14 @@ FROM produits_souscrits
 GROUP BY produit
 ORDER BY sum_profit DESC;
 
--- Q8 : Nombre de clients par produit
+-- Nombre de clients par produit
 SELECT produit,
        COUNT(client_id) AS nombre_de_client
 FROM produits_souscrits
 GROUP BY produit
 ORDER BY nombre_de_client DESC;
 
--- Q9 : Produits des clients VIP
+-- Produits des clients VIP
 SELECT p.produit,
        COUNT(p.client_id) AS nombre_de_client
 FROM produits_souscrits p
@@ -85,7 +85,7 @@ WHERE r.segment_calcule = 'VIP'
 GROUP BY p.produit
 ORDER BY nombre_de_client DESC;
 
--- Q11 : Rentabilité par type d'emploi
+-- Rentabilité par type d'emploi
 SELECT c.emploi,
        SUM(r.profit_net) AS sum_profit,
        AVG(r.profit_net) AS avg_profit,
@@ -95,7 +95,7 @@ INNER JOIN recap_rentabilite r ON c.client_id = r.client_id
 GROUP BY c.emploi
 ORDER BY avg_profit DESC;
 
--- Q15 : Part transactions vs produits dans le revenu
+-- Part transactions vs produits dans le revenu
 SELECT SUM(revenus_transactions) AS revenus_transactions_total,
        SUM(revenus_annuels) AS revenus_produits_total,
        ROUND((SUM(revenus_transactions)/(SUM(revenus_transactions)+SUM(revenus_annuels))*100),1) AS pct_revenus_transactions,

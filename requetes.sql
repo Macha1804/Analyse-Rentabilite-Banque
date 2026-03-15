@@ -59,3 +59,45 @@ SELECT
     total.profit_total,
     ROUND((top_200.profit_top / total.profit_total) * 100, 1) AS pourcentage
 FROM top_200, total;
+
+-- Q7 : Produits les plus rentables
+SELECT produit,
+       SUM(profit_annuel) AS sum_profit,
+       COUNT(client_id) AS nombre_de_client,
+       AVG(profit_annuel) AS profit_moyen_par_produit
+FROM produits_souscrits
+GROUP BY produit
+ORDER BY sum_profit DESC;
+
+-- Q8 : Nombre de clients par produit
+SELECT produit,
+       COUNT(client_id) AS nombre_de_client
+FROM produits_souscrits
+GROUP BY produit
+ORDER BY nombre_de_client DESC;
+
+-- Q9 : Produits des clients VIP
+SELECT p.produit,
+       COUNT(p.client_id) AS nombre_de_client
+FROM produits_souscrits p
+INNER JOIN recap_rentabilite r ON p.client_id = r.client_id
+WHERE r.segment_calcule = 'VIP'
+GROUP BY p.produit
+ORDER BY nombre_de_client DESC;
+
+-- Q11 : Rentabilité par type d'emploi
+SELECT c.emploi,
+       SUM(r.profit_net) AS sum_profit,
+       AVG(r.profit_net) AS avg_profit,
+       COUNT(c.client_id) AS nombre_de_clients
+FROM clients c
+INNER JOIN recap_rentabilite r ON c.client_id = r.client_id
+GROUP BY c.emploi
+ORDER BY avg_profit DESC;
+
+-- Q15 : Part transactions vs produits dans le revenu
+SELECT SUM(revenus_transactions) AS revenus_transactions_total,
+       SUM(revenus_annuels) AS revenus_produits_total,
+       ROUND((SUM(revenus_transactions)/(SUM(revenus_transactions)+SUM(revenus_annuels))*100),1) AS pct_revenus_transactions,
+       ROUND((SUM(revenus_annuels)/(SUM(revenus_transactions)+SUM(revenus_annuels))*100),1) AS pct_revenus_produits
+FROM recap_rentabilite;

@@ -101,3 +101,22 @@ SELECT SUM(revenus_transactions) AS revenus_transactions_total,
        ROUND((SUM(revenus_transactions)/(SUM(revenus_transactions)+SUM(revenus_annuels))*100),1) AS pct_revenus_transactions,
        ROUND((SUM(revenus_annuels)/(SUM(revenus_transactions)+SUM(revenus_annuels))*100),1) AS pct_revenus_produits
 FROM recap_rentabilite;
+
+-- Part de Cadre avec le crédit immobilier
+WITH total_cadre AS (
+    SELECT COUNT(client_id) AS nombre_total_cadre
+    FROM clients
+    WHERE emploi = 'Cadre'
+),
+cadre_immobilier AS (
+    SELECT COUNT(c.client_id) AS nombre_credit_immobilier
+    FROM clients c
+    INNER JOIN produits_souscrits p ON c.client_id = p.client_id
+    WHERE c.emploi = 'Cadre'
+    AND p.produit = 'Crédit Immobilier'
+)
+SELECT
+    ca.nombre_credit_immobilier,
+    tc.nombre_total_cadre,
+    ROUND((ca.nombre_credit_immobilier / tc.nombre_total_cadre) * 100, 1) AS pourcentage
+FROM cadre_immobilier ca, total_cadre tc

@@ -13,11 +13,11 @@ Résultats principaux:
 
 Rentabilité globale
 Le profit total de l'entreprise est de 1,19 M€.
-Le profit moyen par client est de 1 193 €
+Le profit moyen par client est de 1 193 €.
 
 Segmentation
--4,5% clients sont des clients VIP et on un profit supérieur à 500€. Il représente 645 clients.
--35,4% clients sont des clients Standard et on un profit entre 0 et 500 euros. Il représente 354 clients.
+-64,5% clients sont des clients VIP et ont un profit supérieur à 500€. Il représente 645 clients avec un profit moyen de 1 697€.
+-35,4% clients sont des clients Standard et ont un profit entre 0 et 500 €. Il représente 354 clients avec un profit moyen de 276€.
 -0,1% clients sont des clients Déficitaires et on un profit inférieur à 0. Cela représente un seul client.
 
 Insights & Analyse Business
@@ -27,6 +27,13 @@ Les 20% de clients les plus rentables (200 clients) génèrent 57% du profit tot
 La banque a donc un équilibre modérée de son profit et ne dépend pas que de quelques gros clients
 La base de client reste diversifiée.
 
+Le compte courant est notre produit le plus souscrit dans toutes les catégories de clients. Cependant, la rentabilité de la banque repose
+sur le crédit immobilier. C'est notre produit le plus rentable avec 2 669€. de profit moyen par client. C'est la vache à lait.
+
+Notre clientèle est composée principalement de cadres avec 203 personnes générant 1729€ de profit moyen. Les professions libérales, moins
+nombreuses (86 personnes), génèrent 1 571€ de profit moyen.
+
+Les produits représentent 99,8% du profit de la banque. Les transactions ne représent que 0,2% des revenus.
 
 ---
 
@@ -68,6 +75,17 @@ Dataset
 
 ---
 
+Dashboard Power BI
+
+Page 1 - Vue Executive
+
+![Vue Executive](visuals/dashboard_page1.png)
+
+Page 2 - Analyse Produits & Revenus
+![Analyse Produits](visuals/dashboard_page2.png)
+
+---
+
 Technologies Utilisées
 
 - SQL (DuckDB) - Analyses de données et requêtes complexes (CTEs, window functions, agrégations)
@@ -95,6 +113,15 @@ Compétences développées
 
 Génération d'un script python grâce à l'IA
 Requêtes SQL - Common Table Expressions (CTEs)
+
+---
+
+Insights et Recommendations
+
+1. Un client rapporte en moyenne 276€.S'il devient VIP, il rapporte 1 697€. Le gain est de 1 421€ par client. Convertir 100 clients Standard en VIP dégagerait 142 000€ de profit supplémentaire.
+2. 59,6% des cadres n'ont pas de crédit immobilier. Convaincre ces 121 cadres représenterait environ 323K€ de profit potentiel.
+3. Doubler le nombre de cadres permettrait d'augmenter le profit de 351K€.
+4. Développer des offres de cartes premium ciblant cadres et professions libérales pour diversifier les revenus au-delà des produits
 
 
 

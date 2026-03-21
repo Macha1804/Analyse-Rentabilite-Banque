@@ -18,7 +18,7 @@ Le profit moyen par client est de 1 193 €.
 Segmentation
 -64,5% clients sont des clients VIP et ont un profit supérieur à 500€. Il représente 645 clients avec un profit moyen de 1 697€.
 -35,4% clients sont des clients Standard et ont un profit entre 0 et 500 €. Il représente 354 clients avec un profit moyen de 276€.
--0,1% clients sont des clients Déficitaires et on un profit inférieur à 0. Cela représente un seul client.
+-0,1% clients sont des clients Déficitaires et ont un profit inférieur à 0. Cela représente un seul client.
 
 Insights & Analyse Business
 
@@ -34,6 +34,8 @@ Notre clientèle est composée principalement de cadres avec 203 personnes gén�
 nombreuses (86 personnes), génèrent 1 571€ de profit moyen.
 
 Les produits représentent 99,8% du profit de la banque. Les transactions ne représent que 0,2% des revenus.
+
+Les retraits DAB sont les plus générateurs de frais avec 1 069 euros. Les virements arrivent après avec 672 euros.
 
 ---
 
@@ -118,10 +120,10 @@ Requêtes SQL - Common Table Expressions (CTEs)
 
 Insights et Recommendations
 
-1. Un client rapporte en moyenne 276€.S'il devient VIP, il rapporte 1 697€. Le gain est de 1 421€ par client. Convertir 100 clients Standard en VIP dégagerait 142 000€ de profit supplémentaire.
+1. Un client rapporte en moyenne 276€. S'il devient VIP, il rapporte 1 697€. Le gain est de 1 421€ par client. Convertir 100 clients Standard en VIP dégagerait 142 000€ de profit supplémentaire.
 2. 59,6% des cadres n'ont pas de crédit immobilier. Convaincre ces 121 cadres représenterait environ 323K€ de profit potentiel.
 3. Doubler le nombre de cadres permettrait d'augmenter le profit de 351K€.
-4. Développer des offres de cartes premium ciblant cadres et professions libérales pour diversifier les revenus au-delà des produits
+4. Développer des offres de cartes premium ciblant cadres et professions libérales pour diversifier les revenus au-delà des produits. En effet les retraits DAB et virements sont les deux leviers principaux des frais de transaction.
 
 
 

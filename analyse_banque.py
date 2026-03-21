@@ -205,3 +205,27 @@ FROM cadre_immobilier ca, total_cadre tc
 """).fetchdf()
 print("Part de Cadre avec le crédit immobilier:")
 print(result)
+
+
+#frais générés
+result = con.execute("""SELECT type_transaction,
+                                SUM(frais_generes) AS somme_de_frais
+                        FROM transactions
+                        GROUP BY type_transaction
+                        ORDER BY SUM(frais_generes) DESC
+""").fetchdf()
+print("Frais générés:")
+print(result)
+
+
+# Nombre de transactions par client et par segment
+result = con.execute("""WITH nombre_de_transactions AS (SELECT COUNT(transaction_id) AS nbr_transactions,
+                                                        client_id FROM transactions GROUP BY client_id)
+                                                        SELECT AVG(nbr_transactions) AS moyenne_transactions,
+                                                        rp.segment_calcule
+                                                        FROM nombre_de_transactions nt
+                                                        INNER JOIN recap_rentabilite rp ON nt.client_id = rp.client_id
+                                                        GROUP BY rp.segment_calcule ORDER BY moyenne_transactions DESC
+""").fetchdf()
+print("Nombre de transactions par client et par segment:")
+print(result)

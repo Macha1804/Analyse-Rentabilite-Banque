@@ -120,3 +120,20 @@ SELECT
     tc.nombre_total_cadre,
     ROUND((ca.nombre_credit_immobilier / tc.nombre_total_cadre) * 100, 1) AS pourcentage
 FROM cadre_immobilier ca, total_cadre tc
+
+
+-- frais générés
+SELECT type_transaction,
+       SUM(frais_generes) AS somme_de_frais
+       FROM transactions
+      GROUP BY type_transaction
+      ORDER BY SUM(frais_generes) DESC
+
+-- Nombre de transactions par client et par segment
+WITH nombre_de_transactions AS (SELECT COUNT(transaction_id) AS nbr_transactions,
+                                       client_id FROM transactions GROUP BY client_id)
+                                       SELECT AVG(nbr_transactions) AS moyenne_transactions,
+                                              rp.segment_calcule
+                                              FROM nombre_de_transactions nt
+                                              INNER JOIN recap_rentabilite rp ON nt.client_id = rp.client_id
+                                              GROUP BY rp.segment_calcule ORDER BY moyenne_transactions DESC
